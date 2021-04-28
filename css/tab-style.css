@@ -1,0 +1,125 @@
+
+.pr-tab-contain {
+width:100%; 
+}
+.pr-tab-contain .tab-menu ul {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+.pr-tab-contain .tab-menu ul li {
+  display: inline-block;
+  margin-right: 30px;
+}
+.pr-tab-contain .tab-menu ul li:last-of-type {
+  margin-right: 0;
+}
+.pr-tab-contain .tab-menu ul li a {
+  padding: 10px 0 10px;
+  color: #1d386a;
+  font-size: 14px;
+  line-height: 1.5;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 500;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  border-bottom: 2px solid transparent;
+}
+.pr-tab-contain .tab-menu ul li a:hover, .pr-tab-contain .tab-menu ul li a.active {
+  color: #159948;
+}
+
+.pr-tab-contain .tab-content-wrap {
+  margin-top: 50px;
+}
+.pr-tab-contain .tab-content-wrap .fade {
+  opacity: 0;
+  -webkit-transition: opacity .15s linear;
+  -o-transition: opacity .15s linear;
+  -moz-transition: opacity .15s linear;
+  -ms-transition: opacity .15s linear;
+  transition: opacity .15s linear;
+}
+.pr-tab-contain .tab-content-wrap .fade.in {
+  opacity: 1;
+}
+.pr-tab-contain .tab-content-wrap .tab-content {
+  display: none;
+  padding-bottom: 80px;
+  border-bottom: 1px solid #e0e0e0;
+  width: 100%;
+}
+.pr-tab-contain .tab-content-wrap .tab-content.active {
+  display: inline-block;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1199px) {
+
+  /***** Courses inner *****/
+  .pr-tab-contain .tab-menu ul {
+    margin-top: 0;
+    width: 100%;
+  }
+  
+  
+}
+
+@media only screen and (max-width: 991px) {
+  
+  
+  .pr-tab-contain .tab-menu ul li {
+    margin-right: 10px;
+  }
+ 
+
+}
+/* Landscape phones and portrait tablets */
+@media only screen and (max-width: 767px) {
+  
+
+  .pr-tab-contain .tab-menu ul li {
+    border: 1px solid #CCCCCC;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+  }
+  .pr-tab-contain .tab-menu ul li.active {
+    border-color: #bd943c;
+  }
+  .pr-tab-contain .tab-menu ul {
+    overflow: auto;
+    overflow-y: hidden;
+    text-align: left;
+    white-space: nowrap;
+	padding-bottom: 15px;
+  }
+  .pr-tab-contain .tab-menu ul:after {
+    display: none;
+  }
+  .pr-tab-contain .tab-menu ul li {
+    margin-left: -3px;
+  }
+  .pr-tab-contain .tab-menu ul li:first-of-type {
+    margin-left: 0;
+  }
+  .pr-tab-contain .tab-menu ul li a {
+    border-bottom: none !important;
+    padding:10px 15px;
+  }
+  .pr-tab-contain .tab-menu ul li {
+    margin-right: 0;
+  }
+ 
+ 
+}

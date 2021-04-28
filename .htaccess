@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule    ^index?$    index.php    [NC,L]
+
+RewriteRule ^gallerydetails/([a-zA-Z0-9_-]+)$  gallerydetails.php?id=$1
+
+RewriteRule ^newsdetail/([a-zA-Z0-9_-]+)$  newsdetail.php?id=$1
+

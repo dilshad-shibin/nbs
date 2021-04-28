@@ -1,0 +1,11 @@
+[29-Mar-2021 10:17:16 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/configuration/dbconnect.php on line 7
+[29-Mar-2021 11:42:11 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 56
+[29-Mar-2021 11:42:11 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 72
+[29-Mar-2021 11:42:14 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 56
+[29-Mar-2021 11:42:14 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 72
+[29-Mar-2021 11:42:32 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 56
+[29-Mar-2021 11:42:32 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 72
+[29-Mar-2021 12:22:19 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 56
+[29-Mar-2021 12:22:19 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 72
+[19-Apr-2021 11:13:27 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 56
+[19-Apr-2021 11:13:27 UTC] PHP Notice:  Undefined variable: row in /home/qubixims/public_html/viralmafia.com/demo/nbs-final/careers.php on line 72
