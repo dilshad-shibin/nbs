@@ -50,7 +50,7 @@
                     <ul class="accordion">
                         <li class="accordion-item is-active">
                             <h4 class="accordion-thumb">Tell me something about NSM?</h4>
-                            <p class="accordion-panel">Nehru School of Management is not just a B- school, but it is daringly different from the rest and it is ranked among the leading B- schools in nation all level grading service .It also has Tie ups with many government and corporate institutions for Entrepreneurship Development, Training and Consultancy projects which provide ample opportunities for our students to gain valuable industry and field exposure. “KARMA” the management meets is held and organized by the students every year.</p>
+                            <p class="accordion-panel">Nehru School of Management is not just a B-School, but it is daringly different from the rest and it is ranked among the leading B-Schools in nation with all level grading service .It also has tie ups with many government and corporate institutions for Entrepreneurship Development, Training and Consultancy projects which provide ample opportunities for our students to gain valuable industry and field exposure. “KARMA” the management meets is held and organized by the students every year.</p>
                         </li>
                         <li class="accordion-item">
                             <h4 class="accordion-thumb">Which entrance exam score does NSM accept?</h4>
