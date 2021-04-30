@@ -1021,3 +1021,45 @@
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
 }
+
+/* Publication area */
+.publication-section{
+    padding: 50px 0;
+    width: 100%;
+    overflow: hidden;
+}
+
+.publication-section .com_title{
+    margin-bottom: 80px;
+    font-size: 42px;
+    font-weight: 700;
+    position: relative;
+    text-align: center;
+}
+
+.publication-section .com_title:before{
+    content: "";
+    left: 50%;
+    bottom: -25px;
+    position: absolute;
+    width: 60px;
+    height: 3px;
+    background: #159948;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.pub-img{
+    display: flex;
+    margin-bottom: 50px;
+    align-items: flex-end;
+}
+
+.pub-img div+div{
+    margin-left: 10px;
+}
+
+.pub-img p{
+    margin: 0;
+    font-weight: 700;
+}

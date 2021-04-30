@@ -24,14 +24,14 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
 <div class="row">
 <div class="col-lg-6">
 <div class="inbnr_box">
-<h2>Managing Trustee </h2>
+<h2>Chairman & Managing Trustee </h2>
 </div>
 </div> 
 </div>
@@ -63,7 +63,7 @@
 </div>
 </section>
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

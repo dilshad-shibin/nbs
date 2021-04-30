@@ -7,9 +7,10 @@
 <li><a href="about-ngi.php">About NGI</a> </li> 
 <li><a href="about-nbs.php">About NBS</a> </li>   
 <li><a href="founder-chairman.php">Founder Chairman</a> </li>    
-<li><a href="managing-trustee.php">Managing Trustee</a> </li>    
+<li><a href="managing-trustee.php">Chairman & Managing Trustee</a> </li>    
 <li><a href="ceo-and-secretary.php">CEO & Secretary</a> </li> 
 <li><a href="trust.php">Trust</a> </li> 
+<li><a href="publication.php">Publications</a></li> 
 </ul>
             </li>    
   <li><a href="#">B-Schools </a> 
@@ -99,9 +100,10 @@ ISO 9001:2015 certified<br>
 <li><a href="about-ngi.php">About NGI</a> </li>
 <li><a href="about-nbs.php">About NBS</a> </li>
 <li><a href="founder-chairman.php">Founder Chairman</a> </li>    
-<li><a href="managing-trustee.php">Managing Trustee</a> </li>    
+<li><a href="managing-trustee.php">Chairman & Managing Trustee</a> </li>    
 <li><a href="ceo-and-secretary.php">CEO & Secretary</a> </li>    
-<li><a href="trust.php">Trust</a> </li>    
+<li><a href="trust.php">Trust</a> </li>
+<li><a href="publication.php">Publications</a></li>    
 </ul>
 </li>
 <li class="arrow_sub"><a href="javascript:void(0)">B-Schools</a>
