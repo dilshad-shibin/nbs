@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -53,6 +53,87 @@
 </div>
 </div> 
 </div>    
+</section>
+
+<!-- section tab[philosophy/mission/vision/objectives] -->
+<section class="placement-section ngi-tab">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="placement-details-tab">
+                    <ul class="nav nav-tabs">
+                        <li>
+                            <a href="#vision" class="nav-link active" data-toggle="tab" aria-expanded="true">Vision</a>
+                        </li>
+                        <li>
+                            <a href="#mission" class="nav-link" data-toggle="tab" aria-expanded="false">Mission</a>
+                        </li>
+                        <li>
+                            <a href="#philosophy" class="nav-link" data-toggle="tab" aria-expanded="false">Philosophy</a>
+                        </li>
+                        <li>
+                            <a href="#objectives" class="nav-link" data-toggle="tab" aria-expanded="false">Objectives Of NSM</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="placement-details-text">
+                    <div class="tab-content">
+                        <div id="vision" class="tab-pane active">
+                            <div class="row">
+                                <div class="col-md-12 pt-5">
+                                    <h3>VISION</h3>
+                                    <p class="pt-3">To become the centre of excellence in management and innovation </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="mission" class="tab-pane">
+                            <div class="row">
+                                <div class="col-md-12 pt-5">
+                                    <h3>MISSION</h3>
+                                    <p class="pt-3">To evolve and sustain the business school as a vibrant institution of excellence in management education, for the development of talented and proficient leaders, who will be having values of entrepreneurship, uprightness and societal responsibilities. </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="philosophy" class="tab-pane">
+                            <div class="row">
+                                <div class="col-md-12 pt-5">
+                                    <h3>PHILOSOPHY</h3>
+                                    <p class="pt-3">“Moulding True Citizens” is an intrinsic insight of transforming young populace with an advantage of learning functions, understanding and pursuing skills and realizing avenues of opportunities. Conversion of a quest or an urge as a realized option in an individual is possible only if a platform is given and the contributions are substantiated. NSM @ NCERC articulates the perceiving status of market requisites, social structure and professionally self heartfelt identity in individuals.  </p>
+                                </div>
+                            </div><!-- row close -->
+                        </div>
+                        <div id="objectives" class="tab-pane">
+                            <div class="row">
+                                <div class="col-md-12 pt-5">
+                                    <h3>OBJECTIVES OF NSM </h3>
+                                    <ol class="pt-3">
+                                        <li>To build academic, intellectual and professional competencies in students to shoulder their responsibilities in industry. </li>    
+                                        <li>To model a learning platform that will train and prepare students to work with “Ground zero understandings” </li>
+                                        <li>To develop internal assessment criteria and evaluation methods which will sensitize and give proper feedback to the students on the extent of acquiring, pursuing and progressing their capabilities.</li>
+                                        <li>To create capabilities in students for individual leadership and for positioning their interests for team results.</li>
+                                        <li>To guide phenomenally a large rural student populace, who are mediocre in their capabilities and to build an identity of strength for their professional career.</li>
+                                    </ol>
+                                </div>
+                            </div><!-- row close -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- organisational profile -->
+<section class="organisational-profile bg_light">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h3 class="com_title">Organisational Profile</h3>
+                <p>School of Management at Nehru College of Engineering and Research Centre School of Management under NCERC, affiliated to APJ Abdul Kalam Technological University is yet another high quality Institution p r o m o t e d b y t h e g r o u p t o create talented Management Professionals . It is a post graduate research institute housed in a pentagonal palace like structure named 'Kapila' and incorporated with modern facilities and global connectivity. It's A/ c classrooms, boardrooms, seminar halls, library, reading room, discussion room, computer labs, yoga room are all designed to International standards where the industry and academia meet and share their experiences. There is no wonder the School of Management is strong in all spheres, well positioned to impart management education at par with Premier management Institutions spread across the country. Both these institutions viz NCERC and School of Ma n a g e m e n t  a r e  l o c a t e d  at  Pampady, at the foothills of the Vilwadri Shrine and stretched across a scenic landscape. The college has easy access to nearby towns of Thrissur and Palakkad being well connected with road and rail. The Kapila block housing NSM is aesthetically designed in harmony with the background nature to make it conducive to achieve excellence in academics, in a serene, calm learning environment. 
+                </p>
+            </div>
+        </div>
+    </div>
 </section>
     
 <section class="ngisec2 bg_light">
@@ -105,7 +186,7 @@ campus tour</h5>
 </div>
 </section>
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

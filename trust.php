@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -51,6 +51,7 @@
 <div class="trust_cont_box text_justify">
 <h3 class="">Constitution of The Trust</h3>
 <p>The Trust was headed by Late P.K. Das, F.I.E., F.I. Mech. E., M.S. Engg., A.F.R.Ae.S. (London), C.Engg., Managing Trustee &amp; Founder Chairman, who is a well known educationist with rich experience in meticulously planning in establishing and marvelously administering educational institutions. He is a great industrialist with overwhelming spirit of entrepreneurship and excellent business acumen–who is a philanthropist with utmost care and concern for the fellow human beings, suppressed and suffering – who is in nutshell humane in all his approaches. The Trust is headed by Adv. Dr. P. Krishna Das, Management Trustee, Dr. P. Krishnakumar – CEO &amp; Secretary, Dr. P. Thulasi a Trustee beyond few more members.</p>
+<p>All the institutions of NGI functioned under Nehru College of Educational and Charitable Trust. Apart from its dedicated service in education, NGI actively involved in community development as a part of its social responsibility. It includes NEHRU DREAM HOME, AMRUTHA SURABHI, SRADHA, BLOOD DONATION, MEDICAL CAMP, DIYA, and extension activity of social works department.</p>
 </div>
     
 </div>
@@ -58,7 +59,7 @@
 </div>
 </section>
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

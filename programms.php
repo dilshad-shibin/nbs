@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -109,10 +109,26 @@
 </div>
 </div>
 </section>
+
+<section class="addon-course">
+    <div class="container">
+        <div class="row">
+            <h3 class="com_title">Add On Courses</h3>
+            <p>The add on courses have been planned in association with reputed institutes and organizations like BSE Institute, Dalal Street etc. Apart from the above, two year comprehensive placement training is also provided for students, in a phased manner.</p>
+            <ul>
+                <li>1. Knowledge Management Financial and Capital Markets Leadership Advantage Workshop </li>
+                <li>2. Corporate Governance, Digital Marketing Business Ethics, Airline & Airport Management</li>
+                <li>3. Civics and Constitution Industrial Management </li>
+                <li>4. Public Policy Advanced Statistics and Business Modeling </li>
+                <li>5. Equity Research Derivatives Village attachment programme - SARVAKE NIVASTHE </li>
+            </ul>
+        </div>
+    </div>
+</section>
     
-<?php include 'footer-contact-links.php'?>  
+<?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

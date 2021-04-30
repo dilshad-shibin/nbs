@@ -8,7 +8,8 @@
 <li><a href="about-nbs.php">About NBS</a> </li>   
 <li><a href="founder-chairman.php">Founder Chairman</a> </li>    
 <li><a href="managing-trustee.php">Chairman & Managing Trustee</a> </li>    
-<li><a href="ceo-and-secretary.php">CEO & Secretary</a> </li> 
+<li><a href="ceo-and-secretary.php">CEO & Secretary</a> </li>
+<li><a href="director.php">Director</a></li> 
 <li><a href="trust.php">Trust</a> </li> 
 <li><a href="publication.php">Publications</a></li> 
 </ul>
@@ -101,7 +102,8 @@ ISO 9001:2015 certified<br>
 <li><a href="about-nbs.php">About NBS</a> </li>
 <li><a href="founder-chairman.php">Founder Chairman</a> </li>    
 <li><a href="managing-trustee.php">Chairman & Managing Trustee</a> </li>    
-<li><a href="ceo-and-secretary.php">CEO & Secretary</a> </li>    
+<li><a href="ceo-and-secretary.php">CEO & Secretary</a> </li>   
+<li><a href="director.php">Director</a></li> 
 <li><a href="trust.php">Trust</a> </li>
 <li><a href="publication.php">Publications</a></li>    
 </ul>
