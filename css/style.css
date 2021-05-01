@@ -1123,3 +1123,7 @@
     -o-transform: translateY(-5px);
     transition: all 0.3s linear;
 }
+
+.tes_auther_imgblock2 img{
+    width: 100%;
+}
