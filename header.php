@@ -37,6 +37,7 @@
 <ul class="sub_item">
 <li><a href="webinar.php">Webinar Series</a> </li>
 <li><a href="nsm-newsletter.php">NSM publications</a> </li>
+<li><a href="academic.php">Academic Programmes</a></li>
 </ul>      
 </li>     
 <li><a href="update-soon.php">Alumini</a> </li> 
@@ -131,6 +132,7 @@ ISO 9001:2015 certified<br>
 <ul class="">
 <li><a href="webinar.php">Webinar Series</a> </li>
 <li><a href="nsm-newsletter.php">NSM publications</a> </li>
+<li><a href="academic.php">Academic Programmes</a></li>
 </ul>
 </li>
 <li><a href="contact.php">Contact Us </a></li>

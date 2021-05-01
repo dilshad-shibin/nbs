@@ -74,6 +74,12 @@
                         <li>
                             <a href="#objectives" class="nav-link" data-toggle="tab" aria-expanded="false">Objectives Of NSM</a>
                         </li>
+                        <li>
+                            <a href="#social-service" class="nav-link" data-toggle="tab" aria-expanded="false">Social Service</a>
+                        </li>
+                        <li>
+                            <a href="#csr" class="nav-link" data-toggle="tab" aria-expanded="false">CSR Initiative</a>
+                        </li>
                     </ul>
                 </div>
                 <div class="placement-details-text">
@@ -116,6 +122,24 @@
                                 </div>
                             </div><!-- row close -->
                         </div>
+                        <div id="social-service" class="tab-pane">
+                            <div class="row">
+                                <div class="col-md-12 pt-5">
+                                    <h3>Social Service @ NSM </h3>
+                                    <p class="pt-3">“Only a life lived for others is a life worth- while” </p>
+                                    <p>Social work is a professional and academic discipline that seeks to improve the quality of life and subjective well-being of individuals. Social service group with its mission statement of making differences to the society has been functional in providing managerial, financial as well as organizational assistance to various self help groups and grassroots community initiatives and organizing numerous activities at Thrissur and Palakkad in order to empower developmental initiatives in the city as well as strengthen the network of society responsible individuals and corporate in the society.</p>
+                                </div>
+                            </div><!-- row close -->
+                        </div>
+                        <div id="csr" class="tab-pane">
+                            <div class="row">
+                                <div class="col-md-12 pt-5">
+                                    <h3>CSR Initiative @ NSM </h3>
+                                    <p class="pt-3">Social club at NSM (Dharma) - As part of nurturing our management students into complete citizens, they are encouraged and guided to pick out opportunities for social service activities from the environment around them. Such self-less, socially committed activities are expected to transform their lives and stand them in good stead when their values and ethos are challenged in their future careers.</p>
+                                    <p>The budding managers of the institute have taken up the onus of feeding the stray cows that wander around the area. The students have even begun growing grass in the college campus. The grass is then transported to a location near a local temple, where the cows gather in the evenings. The students were being encouraged to take part in the venture, particularly because an initiative like this would help develop character in a world that was increasingly becoming self-centric. The college is also taking up ET in campus initiatives.</p>
+                                </div>
+                            </div><!-- row close -->
+                        </div>
                     </div>
                 </div>
             </div>
@@ -136,7 +160,7 @@
     </div>
 </section>
     
-<section class="ngisec2 bg_light">
+<section class="ngisec2">
 <div class="container">
 <div class="row">
 <div class="col-lg-8">
