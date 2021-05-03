@@ -2,6 +2,10 @@
 	display: flex;
 }
 
+.pt-50{
+    padding-top: 50px;
+}
+
 @media only screen and (max-width: 600px) {
   .contact_map{
 	display: block;
@@ -1126,4 +1130,18 @@
 
 .tes_auther_imgblock2 img{
     width: 100%;
+}
+
+@media(max-width: 991px){
+    .in_pgm_left_img .comn_img_block2{
+        height: 200px;
+    }
+}
+
+.pgm-content ul{
+    padding-left: 30px;
+}
+
+.pgm-content ul li{
+    list-style-type: disc;
 }

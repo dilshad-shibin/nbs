@@ -48,60 +48,70 @@
 </div>    
 </div>
 <div class="row">
-<div class="col-lg-5">
-<div class="in_pgm_left_img">
-<div class="comn_img_block">
-<img src="images/mgt.jpg">    
-</div>
-</div>
-</div>    
-<div class="col-lg-7">
-<div class="in_pgm_right pl-lg-5">
-<div class="row ">
-<div class="col-lg-4 col-sm-6">
-<div class="hm_course_box">
-<div>
-<div class="hm_pm_icon pgm_marketing"></div>
-<h4>MARKETING</h4>    
-</div>
-</div>    
-</div>
+    <div class="col-lg-5">
+        <div class="in_pgm_left_img">
+            <div class="comn_img_block">
+                <img src="images/mgt.jpg">    
+            </div>
+        </div>
+    </div>    
+    <div class="col-lg-7">
+        <div class="in_pgm_right pl-lg-5">
+            <div class="row ">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="marketing.php">
+                        <div class="hm_course_box">
+                            <div>
+                                <div class="hm_pm_icon pgm_marketing"></div>
+                                <h4>MARKETING</h4>    
+                            </div>
+                        </div> 
+                    </a>   
+                </div>
     
-    <div class="col-lg-4 col-sm-6">
-<div class="hm_course_box">
-<div>
-<div class="hm_pm_icon pgm_hr"></div>
-<h4>HR</h4>    
-</div>
-</div>    
-</div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="hr.php">
+                        <div class="hm_course_box">
+                            <div>
+                                <div class="hm_pm_icon pgm_hr"></div>
+                                <h4>HR</h4>    
+                            </div>
+                        </div>
+                    </a>    
+                </div>
     
-    <div class="col-lg-4 col-sm-6">
-<div class="hm_course_box">
-<div>
-<div class="hm_pm_icon pgm_operations"></div>
-<h4>OPERATIONS</h4>    
-</div>
-</div>    
-</div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="operations.php">
+                        <div class="hm_course_box">
+                            <div>
+                                <div class="hm_pm_icon pgm_operations"></div>
+                                <h4>OPERATIONS</h4>    
+                            </div>
+                        </div>
+                    </a>    
+                </div>
     
-    <div class="col-lg-4 col-sm-6">
-<div class="hm_course_box">
-<div>
-<div class="hm_pm_icon pgm_finance"></div>
-<h4>FINANCE</h4>    
-</div>
-</div>    
-</div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="finance.php">
+                        <div class="hm_course_box">
+                            <div>
+                                <div class="hm_pm_icon pgm_finance"></div>
+                                <h4>FINANCE</h4>    
+                            </div>
+                        </div>  
+                    </a>  
+                </div>
     
-    <div class="col-lg-4 col-sm-6">
-<div class="hm_course_box">
-<div>
-<div class="hm_pm_icon pgm_info_system"></div>
-<h4>INFORMATION SYSTEMS</h4>    
-</div>
-</div>    
-</div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="it.php">
+                        <div class="hm_course_box">
+                            <div>
+                                <div class="hm_pm_icon pgm_info_system"></div>
+                                <h4>INFORMATION SYSTEMS</h4>    
+                            </div>
+                        </div> 
+                    </a>   
+                </div>
       
 </div>
 </div>
