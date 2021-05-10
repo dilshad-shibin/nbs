@@ -109,10 +109,20 @@
                                 <div class="col-md-4">
                                     <div class="academic-col">
                                         <div class="academic-img">
-                                            <img src="images/academic/general/airport.jpg" alt="">
+                                            <img src="images/academic/general/airline-1.jpg" alt="">
                                         </div>
                                         <div class="academic-content">
-                                            <h3>Add on Courses Airport Management, Business Analytics using Excel </h3>
+                                            <h3>Add on Courses Airline and  Airport Management</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/general/analytics.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Add on Courses Analytics and Data Science</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -152,6 +162,16 @@
                                 <div class="col-md-4">
                                     <div class="academic-col">
                                         <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/placement-training.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Placement Training  </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
                                             <img src="images/academic/dev-pgm/analysis.jpg" alt="">
                                         </div>
                                         <div class="academic-content">
@@ -176,6 +196,16 @@
                                         </div>
                                         <div class="academic-content">
                                             <h3>Entrepreneurship talk – Ideas to Action   </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/webinar.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Webinar on - No Going Back   </h3>
                                         </div>
                                     </div>
                                 </div>
@@ -214,10 +244,20 @@
                                 <div class="col-md-4">
                                     <div class="academic-col">
                                         <div class="academic-img">
-                                            <img src="images/academic/dev-pgm/student-chapter.jpg" alt="">
+                                            <img src="images/academic/dev-pgm/tma.jpg" alt="">
                                         </div>
                                         <div class="academic-content">
                                             <h3>TMA student chapter activities </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/tma-hykon.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>TMA Hykon Business Plan </h3>
                                         </div>
                                     </div>
                                 </div>
@@ -260,14 +300,34 @@
                                         </div>
                                     </div>
                                 </div>
-                                <!-- 1st row -->
+                                <!-- 2nd row -->
                                 <div class="col-md-4">
                                     <div class="academic-col">
                                         <div class="academic-img">
-                                            <img src="images/academic/conference/green-log.jpg" alt="">
+                                            <img src="images/academic/conference/int-conference.jpeg" alt="">
                                         </div>
                                         <div class="academic-content">
-                                            <h3>National Conference on Green Logistics and Supply chain Management  </h3>
+                                            <h3>International E-Conference on Sustainable Solutions  </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/conference/manufacturing-risks.png" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Manufacturing Risks & Business Performance  </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/conference/research-pappers.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Research Papers for Publications in Quality Journals   </h3>
                                         </div>
                                     </div>
                                 </div>

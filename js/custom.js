@@ -120,3 +120,21 @@ if ($('#testimonial-slider').length) {
         $(this).toggleClass("is-active").children(".accordion-panel").slideToggle("ease-out");
     });
 
+
+    /* auto popup */
+    // $(document).ready(function(){
+    //     function showWindow() {
+    //         $('#exampleModalCenter').show();
+    //         $('html body').css('overflow', 'hidden')
+    //     }
+    //     function hideWindow() {
+    //         $('#exampleModalCenter').hide();
+    //         $('html body').css('overflow', 'scroll')
+    //     }
+
+    //     setTimeout(showWindow, 5000);
+    //     $('.close').click(function() {
+    //         hideWindow()
+    //     });
+    // })
+
