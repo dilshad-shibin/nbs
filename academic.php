@@ -216,7 +216,7 @@
                                             <img src="images/academic/dev-pgm/gst.jpg" alt="">
                                         </div>
                                         <div class="academic-content">
-                                            <h3>Talk on GST  </h3>
+                                            <h3>Talk on GST by Biju K Jacob (Superintendant of Central Tax & Central Excise) </h3>
                                         </div>
                                     </div>
                                 </div>
