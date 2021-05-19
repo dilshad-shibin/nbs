@@ -45,7 +45,7 @@
 <li><a href="testimonial.php">Testimonials</a> </li>    
 <li><a href="news.php">News & Events</a> </li>    
 <li><a href="http://www.thenehrugroup.com/happening/" target="_blank">NGI-Happenings </a></li>
-<li><a href="contact.php">Contact us</a> </li>
+<li><a href="contact.php">Contact</a> </li>
 <li class="mb_signbtn"><a href="apply-online.php" target="">Admission 2021</a></li> 
         </ul>
         <div class="mm-navbtn-names">
@@ -137,7 +137,7 @@ ISO 9001:2015 certified<br>
 <li><a href="academic.php">Academic Programmes</a></li>
 </ul>
 </li>
-<li><a href="contact.php">Contact Us </a></li>
+<li><a href="contact.php">Contact </a></li>
 <li><a href="http://www.thenehrugroup.com/happening/" target="_blank">NGI-Happenings </a></li>
 </ul>
 </div>      

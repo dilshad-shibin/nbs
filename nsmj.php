@@ -47,7 +47,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-6 col-lg-3">
                 <div class="journal-box">
                     <a href="" >
                         <h4>NSMJ -2016 SEP</h4>
@@ -60,7 +60,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-6 col-lg-3">
                 <div class="journal-box">
                     <a href="" >
                         <h4>NSMJ -2016 DEC</h4>
@@ -73,7 +73,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-6 col-lg-3">
                 <div  class="journal-box">
                     <a href="">
                         <h4>NSMJ -2017 SEP</h4>
@@ -86,7 +86,7 @@
                     </a>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-6 col-lg-3">
                 <div class="journal-box">
                     <a href="">
                         <h4>NSMJ -2020 APR</h4>

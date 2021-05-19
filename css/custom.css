@@ -3689,5 +3689,11 @@ i.air_cont_icon {
   color: #e2ad50;
 }
 
+@media(max-width: 1199px){
+  .journal-box .d_bro{
+    padding: 10px 0;
+  }
+}
+
 
 /*# sourceMappingURL=custom.css.map */
