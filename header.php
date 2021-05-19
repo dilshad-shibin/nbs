@@ -35,6 +35,7 @@
 <li><a href="gallery.php">Gallery</a> </li>
 <li><a href="#">Journal</a>
 <ul class="sub_item">
+<li><a href="nsmj.php">NSMJ</a> </li>
 <li><a href="webinar.php">Webinar Series</a> </li>
 <li><a href="nsm-newsletter.php">NSM publications</a> </li>
 <li><a href="academic.php">Academic Programmes</a></li>
@@ -130,6 +131,7 @@ ISO 9001:2015 certified<br>
 <li><a href="gallery.php">Gallery</a></li>
 <li class="arrow_sub"><a href="javascript:void(0)">Journal</a>
 <ul class="">
+<li><a href="nsmj.php">NSMJ</a> </li>
 <li><a href="webinar.php">Webinar Series</a> </li>
 <li><a href="nsm-newsletter.php">NSM publications</a> </li>
 <li><a href="academic.php">Academic Programmes</a></li>
@@ -150,37 +152,3 @@ ISO 9001:2015 certified<br>
 <a href="tel:+918606554777" class="verticalbtn menu-tigger"><i class="fas fa-phone"></i> Admission</a>
 <a class="call_btn" href="tel:+918606554777" target="" title="Call us"></a>
 <a class="whatsapp_btn" href="https://api.whatsapp.com/send?phone=918606554777" target="_blank" title="Whatsapp"></a>
-
-<!-- popup -->
-<!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
-        <div class="modal-content">
-            <div class="modal-body">
-                <button type="button" class="close" data-dismiss="modal"><i class="icofont-ui-close"></i></button>
-                <div class="modal-header-767 d-none">
-                    <h3>Admission <span>2020-21</span></h3>
-                </div>
-                <div class="modal-left">
-                    <div class="overlay"></div>
-                </div>
-                <div class="modal-right">
-                    <div class="modal-heading">
-                        <h3>Admission <span>2020-21</span></h3>
-                    </div>
-                    <form>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="name" name="name" placeholder="Enter Your Name">
-                        </div>
-                        <div class="form-group">
-                            <input type="text" class="form-control" id="name" name="phone" placeholder="Enter your Phone No.">
-                        </div>
-                        <div class="form-group">
-                            <input type="email" class="form-control" name="email" id="email" placeholder="Enter email">
-                        </div>
-                        <button type="submit" class="btn btn-bordered default-btn">Submit</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div> -->
