@@ -55,7 +55,7 @@
                     <a href="download/NSMJ-SEP-2016.pdf" class="d_bro" download> 
                         <div class="d_icon"></div>
                         <div>
-                            <span>Dowload</span> Brochure
+                            <span>Dowload</span> Electronic Copy
                         </div>
                     </a>
                 </div>
@@ -68,7 +68,7 @@
                     <a href="download/NSMJ-SpecialIssue-Dec2016.pdf" class="d_bro" download> 
                         <div class="d_icon"></div>
                         <div>
-                            <span>Dowload</span> Brochure
+                            <span>Dowload</span> Electronic Copy
                         </div>
                     </a>
                 </div>
@@ -81,7 +81,7 @@
                     <a href="download/NSMJ-SEP-2017.pdf" class="d_bro" download> 
                         <div class="d_icon"></div>
                         <div>
-                            <span>Dowload</span> Brochure
+                            <span>Dowload</span> Electronic Copy
                         </div>
                     </a>
                 </div>
@@ -94,7 +94,7 @@
                     <a href="download/NSMJ-APR-2020.pdf" class="d_bro" download> 
                         <div class="d_icon"></div>
                         <div>
-                            <span>Dowload</span> Brochure
+                            <span>Dowload</span> Electronic Copy
                         </div>
                     </a>
                 </div>

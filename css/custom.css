@@ -3687,11 +3687,24 @@ i.air_cont_icon {
 
 .journal-box .d_bro{
   color: #e2ad50;
+  padding: 20px 0px 10px;
+  font-size: 15px;
+  text-align:left;
 }
 
 @media(max-width: 1199px){
   .journal-box .d_bro{
     padding: 10px 0;
+    font-size: 12px;
+  }
+  .journal-box{
+    padding: 15px;
+  }
+}
+
+@media(max-width: 991px){
+  .journal-box .d_bro{
+    padding: 25px 0;
   }
 }
 
