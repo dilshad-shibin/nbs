@@ -243,7 +243,7 @@ campus tour</h5>
 <div class="tes_box_outer ">
 <div class="tes_box ">
 <div class="tes_auther_imgblock">
-<div class="" ><img src="images/tes1.jpg"></div>
+<div class="" ><img src="images/user.png"></div>
 </div>
 <div class="qute_icon"></div>
 <p>Experience at NSM-Campus is good. Many programmes held at NSM had helped to develop the personality which had helped in professional life. NSMs had allowed attending a lot of management meet outside which had helped them to face the world outside. Faculty were good </p>
@@ -263,7 +263,7 @@ campus tour</h5>
 <div class="tes_box_outer ">
 <div class="tes_box ">
 <div class="tes_auther_imgblock">
-<div class="" ><img src="images/tes1.jpg"></div>
+<div class="" ><img src="images/user.png"></div>
 </div>
 <div class="qute_icon"></div>
 <p>Got campus placement in TVS. At present working in Construction Company as Relationship Manager Experience at NSM-Campus is good. Faculty are supportive.Teamwork was learnt from NSM which helped professionally to work in team </p>
