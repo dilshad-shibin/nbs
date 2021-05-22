@@ -160,7 +160,7 @@ campus tour</h5>
 <div class="hm_pm_icon pgm_marketing"></div>
 <h4>MARKETING</h4>    
 </div>
-<a href="javascript:void(0)">more</a>
+<a href="marketing.php">more</a>
 </div>    
 </div>
     
@@ -170,7 +170,7 @@ campus tour</h5>
 <div class="hm_pm_icon pgm_hr"></div>
 <h4>HR</h4>    
 </div>
-<a href="javascript:void(0)">more</a>
+<a href="hr.php">more</a>
 </div>    
 </div>
     
@@ -180,7 +180,7 @@ campus tour</h5>
 <div class="hm_pm_icon pgm_operations"></div>
 <h4>OPERATIONS</h4>    
 </div>
-<a href="javascript:void(0)">more</a>
+<a href="operations.php">more</a>
 </div>    
 </div>
     
@@ -190,7 +190,7 @@ campus tour</h5>
 <div class="hm_pm_icon pgm_finance"></div>
 <h4>FINANCE</h4>    
 </div>
-<a href="javascript:void(0)">more</a>
+<a href="finance.php">more</a>
 </div>    
 </div>
     
@@ -200,7 +200,7 @@ campus tour</h5>
 <div class="hm_pm_icon pgm_info_system"></div>
 <h4>INFORMATION SYSTEMS</h4>    
 </div>
-<a href="javascript:void(0)">more</a>
+<a href="it.php">more</a>
 </div>    
 </div>
     
