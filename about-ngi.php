@@ -96,7 +96,7 @@
                             <div class="row">
                                 <div class="col-md-12 pt-5">
                                     <h3>MISSION</h3>
-                                    <p class="pt-3">To evolve and sustain the business school as a vibrant institution of excellence in management education, for the development of talented and proficient leaders, who will be having values of entrepreneurship, uprightness and societal responsibilities. </p>
+                                    <p class="pt-3">To evolve and sustain the business schools as a vibrant institution of excellence in management education, for the development of talented and proficient leaders, who will be having values of entrepreneurship, uprightness and societal responsibilities. </p>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +153,7 @@
         <div class="row">
             <div class="col-12">
                 <h3 class="com_title">Organisational Profile</h3>
-                <p>School of Management at Nehru College of Engineering and Research Centre School of Management under NCERC, affiliated to APJ Abdul Kalam Technological University is yet another high quality Institution p r o m o t e d b y t h e g r o u p t o create talented Management Professionals . It is a post graduate research institute housed in a pentagonal palace like structure named 'Kapila' and incorporated with modern facilities and global connectivity. It's A/ c classrooms, boardrooms, seminar halls, library, reading room, discussion room, computer labs, yoga room are all designed to International standards where the industry and academia meet and share their experiences. There is no wonder the School of Management is strong in all spheres, well positioned to impart management education at par with Premier management Institutions spread across the country. Both these institutions viz NCERC and School of Ma n a g e m e n t  a r e  l o c a t e d  at  Pampady, at the foothills of the Vilwadri Shrine and stretched across a scenic landscape. The college has easy access to nearby towns of Thrissur and Palakkad being well connected with road and rail. The Kapila block housing NSM is aesthetically designed in harmony with the background nature to make it conducive to achieve excellence in academics, in a serene, calm learning environment. 
+                <p>School of Management at Nehru College of Engineering and Research Centre School of Management under NCERC, affiliated to APJ Abdul Kalam Technological University is yet another high quality Institution p r o m o t e d b y t h e g r o u p t o create talented Management Professionals . It is a post graduate research institute housed in a pentagonal palace like structure named 'Kapila' and incorporated with modern facilities and global connectivity. It's A/ c classrooms, boardrooms, seminar halls, library, reading room, discussion room, computer labs, yoga room are all designed to International standards where the industry and academia meet and share their experiences. There is no wonder the School of Management is strong in all spheres, well positioned to impart management education at par with Premier management Institutions spread across the country. Both these institutions viz NCERC and School of Management  are located at  Pampady, at the foothills of the Vilwadri Shrine and stretched across a scenic landscape. The college has easy access to nearby towns of Thrissur and Palakkad being well connected with road and rail. The Kapila block housing NSM is aesthetically designed in harmony with the background nature to make it conducive to achieve excellence in academics, in a serene, calm learning environment. 
                 </p>
             </div>
         </div>
@@ -177,7 +177,7 @@
 <li>Library retains wide collection of national and international journals, magazines and more than 3 lakhs volume of books.</li>    
 <li>NOBLE (Nehru Out Bond for Leadership and Excellence) for out bond training programme.</li>    
 <li>FDP(Faculty development programme) to refine skills & technologies of our faculties in every semester.</li>    
-<li>BTA (Best Teacher Award) & BFA (Best Faculty Award) we recognise school and college level pedagogues every year.</li>    
+<li>BTA (Best Teacher Award) & BFA (Best Faculty Award) we recognise schools and college level pedagogues every year.</li>    
 <li>NCPIR( Nehru Corporate Placement& Industrial Relations) looks after placement and training.</li>    
 <li>An enviable track record of placement, more than 2000 students got offer letter in 2017-2018.</li>    
 <li>Cash awards and gold coins for university rank holders.</li>    

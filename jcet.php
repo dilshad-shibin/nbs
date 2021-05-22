@@ -25,7 +25,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="in_page_bnr ">
 <div class="inbnr_right_image_block">
@@ -85,8 +85,8 @@
 <div class="container"> 
 <div class="tab_ab_cont text_justify">
 <h3 class="com_title ">About JBS</h3>
-<p>Jawaharlal Business School @ JCET is part of the Jawaharlal College of Engineering and Technology(JCET) , which is a constituent of the reputed Nehru Group of Institutions, (Tamil Nadu and Kerala). It offers 2 year full time MBA program ( 4 Semesters) Affiliated to APJ Abdul Kalam Technological University. It is located amidst the vibrant greenery of Lakkidi near Ottapalam, Palakkad, away from the busy city bringing nature in its exotic form. It is quite self contained within a sprawling campus with superior infrastructure for modern learning. We at Jawaharlal Business School believe and strive to achieve a holistic development of the individuals who will contribute in future not only as good managers but also as disciplined corporate citizens. In order to make students socially responsible and self -developed, a variety of extracurricular activities like social projects, spiritual and motivational talks and books are arranged. Our methodology of problem solving learning, punctuality and discipline make our students adapt to the corporate rigor from the day one. The college possesses veteran staff that is proverbial with industrial practices, providing students necessary guidance to solve real life business tribulations. In addition to the MBA degree, our students get opportunity to complete add-on courses in many new areas of management which equip them to seek better career opportunities. Alternate lifelines like Entrepreneurship is given equal importance in curricular and co-curricular activities. Entrepreneurship development programs are conducted every year in association with Govt. Of India, MSME for final year students to motivate them and inform about various assistance schemes offered for starting a business. </p>
-		  <p>In line with our motto of “Moulding true Citizen’, JBS , over the years has tried to impart high quality management education through academic rigor as well as ample industry interface. The institute has maintained good results and placement record as a result of our hard working culture, supported by a dynamic management. Today JBS has attained the position of a much sought after Business school by students all over Kerala as well as nearby states. A number of leading corporate firms also have made JBS their preferred source for recruitment of young managers.</p>    
+<p>Jawaharlal Business School @ JCET is part of the Jawaharlal College of Engineering and Technology(JCET) , which is a constituent of the reputed Nehru Group of Institutions, (Tamil Nadu and Kerala). It offers 2 year full time MBA program ( 4 Semesters) Affiliated to APJ Abdul Kalam Technological University. It is located amidst the vibrant greenery of Lakkidi near Ottapalam, Palakkad, away from the busy city bringing nature in its exotic form. It is quite self contained within a sprawling campus with superior infrastructure for modern learning. We at Jawaharlal Business Schools believe and strive to achieve a holistic development of the individuals who will contribute in future not only as good managers but also as disciplined corporate citizens. In order to make students socially responsible and self -developed, a variety of extracurricular activities like social projects, spiritual and motivational talks and books are arranged. Our methodology of problem solving learning, punctuality and discipline make our students adapt to the corporate rigor from the day one. The college possesses veteran staff that is proverbial with industrial practices, providing students necessary guidance to solve real life business tribulations. In addition to the MBA degree, our students get opportunity to complete add-on courses in many new areas of management which equip them to seek better career opportunities. Alternate lifelines like Entrepreneurship is given equal importance in curricular and co-curricular activities. Entrepreneurship development programs are conducted every year in association with Govt. Of India, MSME for final year students to motivate them and inform about various assistance schemes offered for starting a business. </p>
+		  <p>In line with our motto of “Moulding true Citizen’, JBS , over the years has tried to impart high quality management education through academic rigor as well as ample industry interface. The institute has maintained good results and placement record as a result of our hard working culture, supported by a dynamic management. Today JBS has attained the position of a much sought after Business schools by students all over Kerala as well as nearby states. A number of leading corporate firms also have made JBS their preferred source for recruitment of young managers.</p>    
 </div>
 </div>
 </div>
@@ -548,7 +548,7 @@
 </div>
 </section>
    
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

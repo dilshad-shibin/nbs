@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="adm_bnr_sec" >
 <div class="container">
@@ -56,7 +56,7 @@
 <li>Get prescribed application form of the college by remitting the cost of it in cash or through DD.</li>
 <li>The College will conduct a Group Discussion and Interviews and based on their performance of group discussion & interview and qualifying examination and CAT / CMAT / KMAT candidates will be short listed for Selection. ( This may change as per APJAKTU rules framed from time to time for MBA Admission). The weightage of Entrance Test, G.D. & P.I. is 80:10:10.</li>
 <li>Candidates who are short-listed will be intimated by post about their selection. They have to complete other formalities including remittance of fees, etc, within the stipulated time.</li>
-<li>Compliance of the above will make a candidate eligible for admission to the school.</li>
+<li>Compliance of the above will make a candidate eligible for admission to the schools.</li>
 </ul>
 <div class="adm_duc">
 <p>When the application is accepted by the college, the candidates should remit the prescribed fees to the college and the admission will be confirmed after verification of the originals of the following documents.</p>    
@@ -97,9 +97,9 @@
 </div>
 </section>
     
-<?php include 'footer-contact-links.php'?>  
+<?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->
