@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
 
 <section class="bannersec">
 <div class="container">
@@ -36,7 +36,7 @@
 <li>
 <div >
 <h5>Ranking</h5>
-<h6>5<sup>th</sup> Best B-School in Kerala</h6>    
+<h6>5<sup>th</sup> Best B-Schools in Kerala</h6>    
 </div>
 </li>    
 <li class="bnr_ngilogo">
@@ -54,11 +54,11 @@
 <div class="n_scr_div">
 
 <?php
-include("configuration/dbconnect.php");
-$findsql = mysqli_query($connect, "SELECT * FROM `scrolnews`");
+include 'configuration/dbconnect.php';
+$findsql = mysqli_query($connect, 'SELECT * FROM `scrolnews`');
 $rowsno = mysqli_fetch_array($findsql);
-if($rowsno == 0){
-?>
+if ($rowsno == 0) {
+    ?>
 
 
 <div class="news-scrollbar">
@@ -80,31 +80,29 @@ if($rowsno == 0){
 
 <?php
 } else {
-$datasql = mysqli_query($connect, "SELECT * FROM `scrolnews` ORDER BY `scrolnews_id` DESC LIMIT 10");
-?>
+        $datasql = mysqli_query($connect, 'SELECT * FROM `scrolnews` ORDER BY `scrolnews_id` DESC LIMIT 10'); ?>
 
 
 <div class="news-scrollbar">
 <ul>
 
 <?php
-$i=1;
-while($row = mysqli_fetch_array($datasql)){
-?>
+$i = 1;
+        while ($row = mysqli_fetch_array($datasql)) {
+            ?>
 <li>
-<a href="<?php echo $row['scrolnews_url'];?>" target="_blank"><?php if($i=='1'){?> <span class="newsblink">New</span> <?php }?> <?php echo $row['scrolnews_name'];?></a>
+<a href="<?php echo $row['scrolnews_url']; ?>" target="_blank"><?php if ($i == '1') {?> <span class="newsblink">New</span> <?php } ?> <?php echo $row['scrolnews_name']; ?></a>
 </li>
 <?php
-$i++;
-}
-?>
+++$i;
+        } ?>
 
 </ul>
 </div>
 
 
 <?php
-}
+    }
 ?>
 
 </div>
@@ -115,7 +113,7 @@ $i++;
     
 <section class="home_introsec">
 <div class="container">
-<h1 class="com_title">Welcome to Nehru B-School</h1>
+<h1 class="com_title">Welcome to Nehru B-Schools</h1>
 <div class="row">
 <div class="col-lg-4">
 <div class="intro_box">
@@ -421,11 +419,11 @@ campus tour</h5>
 
 
 <?php
-include("configuration/dbconnect.php");
-$findsql = mysqli_query($connect, "SELECT * FROM `news`");
+include 'configuration/dbconnect.php';
+$findsql = mysqli_query($connect, 'SELECT * FROM `news`');
 $rowsno = mysqli_num_rows($findsql);
-if($rowsno == 0){
-?>
+if ($rowsno == 0) {
+    ?>
     
 
 <section class="hm_news">
@@ -464,7 +462,7 @@ the printing.</a> </h4>
 
 <?php
 } else {
-?>
+        ?>
 
 
 <section class="hm_news">
@@ -473,46 +471,42 @@ the printing.</a> </h4>
 <div class="col-12"><h3 class="com_title">News & Events</h3></div>
 <div class="col-lg-6">
 <?php
-$datasql = mysqli_query($connect, "SELECT * FROM `news` ORDER BY `news_id` DESC LIMIT 1");
-while($row = mysqli_fetch_array($datasql)){
-?>
+$datasql = mysqli_query($connect, 'SELECT * FROM `news` ORDER BY `news_id` DESC LIMIT 1');
+        while ($row = mysqli_fetch_array($datasql)) {
+            ?>
 <?php
 $newdate = $row['news_date'];
-$month = date("F",strtotime($newdate));
-$day = date("d",strtotime($newdate));
-$year = date("Y",strtotime($newdate));
-?>
+            $month = date('F', strtotime($newdate));
+            $day = date('d', strtotime($newdate));
+            $year = date('Y', strtotime($newdate)); ?>
 <div class="hm_newsbox">
 <div class="hm_news_cont">
-<div class="news_date"><?php echo $month;?> <?php echo $day;?>, <?php echo $year;?></div>
-<h4><a href="news/<?php echo $row['news_id'];?>" target="_blank"><?php echo $row['news_title'];?></a> </h4>
-<p><?php echo $row['news_description'];?></p>
+<div class="news_date"><?php echo $month; ?> <?php echo $day; ?>, <?php echo $year; ?></div>
+<h4><a href="news/<?php echo $row['news_id']; ?>" target="_blank"><?php echo $row['news_title']; ?></a> </h4>
+<p><?php echo $row['news_description']; ?></p>
 </div>
 </div>
 <?php
-}
-?>
+        } ?>
 </div>
 <div class="col-lg-6">
 <?php
-$datasql = mysqli_query($connect, "SELECT * FROM `news` ORDER BY `news_id` DESC LIMIT 1, 2");
-while($row = mysqli_fetch_array($datasql)){
-?>
+$datasql = mysqli_query($connect, 'SELECT * FROM `news` ORDER BY `news_id` DESC LIMIT 1, 2');
+        while ($row = mysqli_fetch_array($datasql)) {
+            ?>
 <?php
 $newdate = $row['news_date'];
-$month = date("F",strtotime($newdate));
-$day = date("d",strtotime($newdate));
-$year = date("Y",strtotime($newdate));
-?>
+            $month = date('F', strtotime($newdate));
+            $day = date('d', strtotime($newdate));
+            $year = date('Y', strtotime($newdate)); ?>
 <div class="hm_newsbox">
 <div class="hm_news_cont">
-<div class="news_date"><?php echo $month;?> <?php echo $day;?>, <?php echo $year;?></div>
-<h4 class=""><a href="news/<?php echo $row['news_id'];?>" target="_blank"><?php echo $row['news_title'];?></a> </h4>
+<div class="news_date"><?php echo $month; ?> <?php echo $day; ?>, <?php echo $year; ?></div>
+<h4 class=""><a href="news/<?php echo $row['news_id']; ?>" target="_blank"><?php echo $row['news_title']; ?></a> </h4>
 </div>
 </div>
 <?php
-}
-?>
+        } ?>
 </div>
 </div>
 </div>
@@ -521,15 +515,15 @@ $year = date("Y",strtotime($newdate));
 
 
 <?php
-}
+    }
 ?>
 
 
     
 
-<?php include 'footer-contact-links.php'?>  
+<?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

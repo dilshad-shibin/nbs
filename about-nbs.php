@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -49,7 +49,7 @@
     
 <p>Nehru B-Schools is a unique and special institution filled with vibrant, dynamic and energetic individuals who are focused to succeed and grow in their endeavours. When you join Nehru B-Schools you become part of a community of high performers who inspire, innovate and impact lives through managerial excellence. </p>
 <p>Nehru B - Schools is one of the prestigious Business Schools in the country which is under the aegis of Nehru Group of Institutions, one of the largest educational conglomerates in India. Deciding to study an MBA (Master of Business Administration) is a big decision to take for aspiring global managers. An MBA will offer you a wealth of advantages, especially when it's offered by a top business school with a very good reputation. Getting a higher salary after graduation, landing a top management position, or even becoming your own boss are just a few advantages. With a thriving atmosphere of recreational programs, arts and culture surrounded by rich greenery, there is something for every student to explore and discover about themselves while studying at Nehru B-Schools. We have tie-ups/MOUs with many Government and Corporate institutions for Entrepreneurship Development, Training and Consultancy Projects which provide ample opportunities for our students to gain valuable industry and field exposure. This platform gives opportunities for students to experience professional work in the limelight.</p>
-<p>Nehru B-School believes and strives to achieve a holistic development of the individual who will contribute in future not only as good managers but also as disciplined corporate citizens. The pedagogy is designed for proactive student interaction. The course delivery system is well composed of case analysis and presentation, group discussion, seminars, assignments, live industrial projects, quiz and soon. We consistently encourage our students to leverage the unparalleled resources to add value to their MBA. Since graduate students are from different streams bridge courses/ orientation classes are arranged as required.</p>
+<p>Nehru B-Schools believes and strives to achieve a holistic development of the individual who will contribute in future not only as good managers but also as disciplined corporate citizens. The pedagogy is designed for proactive student interaction. The course delivery system is well composed of case analysis and presentation, group discussion, seminars, assignments, live industrial projects, quiz and soon. We consistently encourage our students to leverage the unparalleled resources to add value to their MBA. Since graduate students are from different streams bridge courses/ orientation classes are arranged as required.</p>
 <p>Staff with a wealth of industrial and commercial experience provide necessary skills to students in solving business problems in real life situations. The strong commercial orientation and academic rigor of the program means that the students are shaped to seek a wide range of business related careers both in the public and private sector. Further they can go for careers in Euro bond trading, project management, consultancy, teaching profession, advertisement or, thinking beyond jobs to become entrepreneurs.</p>
 <p>Positive attitude formation and skills development are given the right importance in our two year campus program. Experienced professors mentor students to develop a positive attitude towards job, society and life in general. Additional skills are imparted through language classes, interpersonal skills practice, and seamless interaction with technology.</p>
 <p>Students undertake social projects like teaching at orphanages, visit to old age homes, cow feeding etc to make them socially responsible corporate citizens. A Vivekananda Study centre is being developed as a centre of social and cultural transformation.</p>
@@ -60,7 +60,7 @@
 
 <h3>Vision</h3>
 
-<p>To be a globally recognized B-school offering academic excellence, leadership and innovation to transform ideas and people and to mould true citizens and leaders providing a transformational learning experience. </p>
+<p>To be a globally recognized B-schools offering academic excellence, leadership and innovation to transform ideas and people and to mould true citizens and leaders providing a transformational learning experience. </p>
 </div>
 </div>
 </div> 
@@ -331,7 +331,7 @@
 </div>
 </section>
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

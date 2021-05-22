@@ -68,7 +68,7 @@
 naac accredited <br>
 ISO 9001:2015 certified<br>
 <div class="h_rank"></div>
-5<sup>th</sup> Best B-School in Kerala
+5<sup>th</sup> Best B-Schools in Kerala
 </div>
 </div>
     
