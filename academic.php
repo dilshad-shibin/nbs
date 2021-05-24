@@ -261,8 +261,51 @@
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/investors-awareness.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Investors Awareness(25/05/2021) </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/swachhta.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Workshop On Swachhta </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/deepak.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Transformation Talks By Deepak </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/dev-pgm/unnikrishnan.jpeg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Transformation Talks By Unnikrishnan </h3>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+
+
                         <div id="menu3" class="tab-pane">
                             <div class="row">
                                 <div class="col-md-12 pt-5">
