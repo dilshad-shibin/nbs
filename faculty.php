@@ -138,7 +138,7 @@
                 <div class="col-lg-4">
                     <div class="intro_box">
                         <div class="thumb-img">
-                            <img src="images/faculty/" alt="">
+                            <img src="images/faculty/sijo.jpg" alt="">
                         </div>
                         <h4>Sijo Joseph Chakola</h4>
                         <span>Associate Professor</span>

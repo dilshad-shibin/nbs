@@ -45,7 +45,7 @@
 <ul>    
 <li><a href="placement.php">Placement</a> </li>    
 <li><a href="gallery.php">Gallery</a> </li>    
-<li><a href="update-soon.php">Alumni</a> </li>
+<li><a href="alumni.php">Alumni</a> </li>
 <li><a href="testimonial.php">Testimonials</a> </li>    
 <li><a href="news.php">News & Events</a> </li>  
 </ul>     

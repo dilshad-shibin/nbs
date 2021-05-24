@@ -81,7 +81,7 @@
                 <div class="single-faculty-widget">
                     <div class="team-box">
                         <div class="team-thumb">
-                            <img src="images/faculty/420x420/" alt="">
+                            <img src="images/faculty/420x420/sijo.jpg" alt="">
                         </div>
                         <div class="team-member-info">
                             <h3>Sijo Joseph Chakola</h3>

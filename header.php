@@ -41,7 +41,7 @@
 <li><a href="academic.php">Academic Programmes</a></li>
 </ul>      
 </li>     
-<li><a href="update-soon.php">Alumini</a> </li> 
+<li><a href="alumni.php">Alumni</a> </li> 
 <li><a href="testimonial.php">Testimonials</a> </li>    
 <li><a href="news.php">News & Events</a> </li>    
 <li><a href="http://www.thenehrugroup.com/happening/" target="_blank">NGI-Happenings </a></li>
