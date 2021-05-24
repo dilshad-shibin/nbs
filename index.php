@@ -288,17 +288,17 @@ campus tour</h5>
 <div class="" id="tes-video-slider">
 <div class="item ">
 <div class="tes_item">
-<a data-fancybox="images" href="https://youtu.be/Eaxcr_L6FAQ"><i class="fas fa-play"></i></a>
+<a data-fancybox="images" href="https://www.youtube.com/embed/Uhl73dnb30w"><i class="fas fa-play"></i></a>
 <div class="comn_img_block">
-<img src="images/tes-video/1.jpg"> 
+<img src="http://i1.ytimg.com/vi/Uhl73dnb30w/hqdefault.jpg"> 
 </div> 
 </div>      
 </div>
  <div class="item ">
 <div class="tes_item">
-<a data-fancybox="images" href="https://youtu.be/Eaxcr_L6FAQ" class=" "><i class="fas fa-play"></i></a>
+<a data-fancybox="images" href="https://www.youtube.com/embed/XjxPkDiB-VU" class=" "><i class="fas fa-play"></i></a>
 <div class="comn_img_block">
-<img src="images/tes-video/1.jpg"> 
+<img src="http://i1.ytimg.com/vi/XjxPkDiB-VU/hqdefault.jpg"> 
 </div> 
 </div>      
 </div>

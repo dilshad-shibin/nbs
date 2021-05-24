@@ -3708,5 +3708,18 @@ i.air_cont_icon {
   }
 }
 
+@media (max-width: 575px){
+  .bnr_cont ul li.bnr_ngilogo {
+    display: block !important;
+  }
+  .bnr_cont ul{
+    flex-direction: column;
+  }
+  .bnr_cont ul li:first-child{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  }
+}
+
+
 
 /*# sourceMappingURL=custom.css.map */
