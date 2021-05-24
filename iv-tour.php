@@ -43,42 +43,60 @@
     <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-9 in_pgm_title">
-                    <h1 class="com_title ">International IV's</h1>    
+                    <h1 class="com_title">International IV's & National Tours</h1>    
                 </div>    
             </div>
             <div class="row">
-                <div class="col-lg-12">
-                    <div class="tes_slider">
-                        <div class="slick_customstyle">
-                            <div id="testimonial-slider">
-                                <div class="item">
-                                    <div class="tes_box_outer">
-                                        <div class="tes_box">
-                                            <div class="tes_auther_imgblock2">
-                                                <div>
-                                                    <img src="images/iv/iv.jpg" alt="">
-                                                </div>
-                                            </div>
-                                            <p>Industrial Visit & South Indian Tour (Batch 2018-20)</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item">
-                                    <div class="tes_box_outer">
-                                        <div class="tes_box">
-                                            <div class="tes_auther_imgblock2">
-                                                <div>
-                                                    <img src="images/iv/iv2.jpg" alt="">
-                                                </div>
-                                            </div>
-                                            <p>Industrial Visit & South Indian Tour (Batch 2018-’20)</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-4">
+                   <div class="academic-col">
+                       <div class="academic-img">
+                           <img src="images/iv/iv.jpg" alt="">
+                       </div>
+                       <div class="academic-content">
+                           <h3>Industrail Visit & South Indian Tour(Batch 2018-20)</h3>
+                       </div>
+                   </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="academic-col">
+                       <div class="academic-img">
+                           <img src="images/iv/iv2.jpg" alt="">
+                       </div>
+                       <div class="academic-content">
+                           <h3>Industrail Visit & South Indian Tour(Batch 2018-20)</h3>
+                       </div>
+                   </div>
                 </div>     
+                <div class="col-lg-4">
+                    <div class="academic-col">
+                       <div class="academic-img">
+                           <img src="images/iv/iv-2019.jpg" alt="">
+                       </div>
+                       <div class="academic-content">
+                           <h3>Industrail Visit(KSE Ltd Irinjalkuda, Batch 2019)</h3>
+                       </div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                   <div class="academic-col">
+                       <div class="academic-img">
+                           <img src="images/iv/iv-2018.jpg" alt="">
+                       </div>
+                       <div class="academic-content">
+                           <h3>RUBFILLA Ltd, Kanjikode, Palakkad & MILMA Cattle Feed, Malampuzha, Palakkad(Batch 2018)</h3>
+                       </div>
+                   </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="academic-col">
+                       <div class="academic-img">
+                           <img src="images/iv/iv-2017.jpg" alt="">
+                       </div>
+                       <div class="academic-content">
+                           <h3>Industrail Visit(MRF Ltd Goa, Batch 2017)</h3>
+                       </div>
+                   </div>
+                </div> 
             </div>
         </div>
 </section>
