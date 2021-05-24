@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -39,38 +39,43 @@
 </section>
     
 <section class="testimonial_page bg_light">
-<div class="container">
-<div class="row  justify-content-center">
-
-<?php
-include("configuration/dbconnect.php");
-$findsql = mysqli_query($connect, "SELECT * FROM `video_gallery` ORDER BY `video_gallery_id` DESC");
-while($row = mysqli_fetch_array($findsql)){
-?>
-
-<div class="col-lg-4 col-md-6 col-sm-6 ">
-<div class="video_albmbox ">
-<a data-fancybox="" href="https://www.youtube.com/embed/<?php echo $row['video_gallery_youtube'];?>" class="video-btn icon_video"><i class="fas fa-play"></i></a>    
-<img src="http://i1.ytimg.com/vi/<?php echo $row['video_gallery_youtube'];?>/hqdefault.jpg" class="img-fluid" alt="">
-<div class="video_albmbox_title">
-<h5><?php echo $row['video_gallery_title'];?> </h5> 
-</div>
-</div>
-</div>
-
-<?php
-}
-?>
-    
-
-     
-</div>
-</div>
+    <div class="container">
+        <div class="row  justify-content-center">  
+            <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="video_albmbox ">
+                    <a data-fancybox="" href="https://www.youtube.com/embed/Uhl73dnb30w" class="video-btn icon_video"><i class="fas fa-play"></i></a>    
+                    <img src="http://i1.ytimg.com/vi/Uhl73dnb30w/hqdefault.jpg" class="img-fluid" alt="">
+                    <div class="video_albmbox_title">
+                        <h5>Welcome To NSM</h5> 
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="video_albmbox ">
+                    <a data-fancybox="" href="https://www.youtube.com/embed/XjxPkDiB-VU" class="video-btn icon_video"><i class="fas fa-play"></i></a>    
+                    <img src="http://i1.ytimg.com/vi/XjxPkDiB-VU/hqdefault.jpg" class="img-fluid" alt="">
+                    <div class="video_albmbox_title">
+                        <h5>NSM Management Intro..</h5> 
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 ">
+                <div class="video_albmbox ">
+                    <a data-fancybox="" href="https://www.youtube.com/embed/dn60JGEfEBM" class="video-btn icon_video"><i class="fas fa-play"></i></a>    
+                    <img src="http://i1.ytimg.com/vi/dn60JGEfEBM/hqdefault.jpg" class="img-fluid" alt="">
+                    <div class="video_albmbox_title">
+                        <h5>Corporate Video</h5> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
     
-<?php include 'footer-contact-links.php'?>  
+<?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->
