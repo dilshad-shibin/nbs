@@ -1146,3 +1146,20 @@
     list-style-type: disc;
 }
 
+.desktop_menu_ul>li>ul {
+    padding: 40px 35px;
+}
+
+/* .desktop_menu_ul>li:last-child{
+    position: absolute;
+    right: 30px;
+} */
+
+@media (max-width:1199px) and (min-width:1100px){
+    .desktop_menu_ul>li:last-child{
+        position: absolute;
+        right: 30px;
+    }
+}
+
+

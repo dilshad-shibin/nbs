@@ -36,10 +36,16 @@
 <li><a href="#">Journal</a>
 <ul class="sub_item">
 <li><a href="nsmj.php">NSMJ</a> </li>
-<li><a href="webinar.php">Webinar Series</a> </li>
+<!-- <li><a href="webinar.php">Webinar Series</a> </li> -->
 <li><a href="nsm-newsletter.php">NSM publications</a> </li>
-<li><a href="academic.php">Academic Programmes</a></li>
+<!-- <li><a href="academic.php">Academic Programmes</a></li> -->
 </ul>      
+</li>
+<li><a href="#">Events</a>
+<ul class="sub_item">
+<li><a href="webinar.php">Webinar Series</a> </li>
+<li><a href="academic.php">Academic Programmes</a></li>
+</ul>
 </li>     
 <li><a href="alumni.php">Alumni</a> </li> 
 <li><a href="testimonial.php">Testimonials</a> </li>    
@@ -132,8 +138,14 @@ ISO 9001:2015 certified<br>
 <li class="arrow_sub"><a href="javascript:void(0)">Journal</a>
 <ul class="">
 <li><a href="nsmj.php">NSMJ</a> </li>
-<li><a href="webinar.php">Webinar Series</a> </li>
+<!-- <li><a href="webinar.php">Webinar Series</a> </li> -->
 <li><a href="nsm-newsletter.php">NSM publications</a> </li>
+<!-- <li><a href="academic.php">Academic Programmes</a></li> -->
+</ul>
+</li>
+<li class="arrow_sub"><a href="javascript:void(0)">Events</a>
+<ul class="">
+<li><a href="webinar.php">Webinar Series</a> </li>
 <li><a href="academic.php">Academic Programmes</a></li>
 </ul>
 </li>
