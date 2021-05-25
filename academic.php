@@ -384,6 +384,37 @@
                                         </div>
                                     </div>
                                 </div>
+
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/conference/int-con1.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>International Conference - 2021 on  Sustainable solutions   </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/conference/int-conf2.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>International Conference - 2021 on  Sustainable solutions   </h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/academic/conference/int-conf3.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>International Conference - 2021 on  Sustainable solutions   </h3>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                             <!-- organisational profile -->
                             <section class="organisational-profile bg_light">
