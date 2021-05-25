@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
     
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -74,8 +74,8 @@
 <ul>
 <li><span>Address</span> Near Lakkidi Rly. Station, Pampady, Thiruvilwamala
 Thrissur - 680 597, Kerala, India</li>    
-<li><span>Phone</span> +91 04884 - 281670, 282070</li>    
-<li><span>Email</span> <a href="mailto:admissions@ncerc.ac.in">admissions@ncerc.ac.in</a> <a href="mailto:jcetadmissions@nehrucolleges.com">jcetadmissions@nehrucolleges.com</a></li>    
+<li><span>Phone</span> +91 04884 - 281670, 282070, 7593984222</li>    
+<li><span>Email</span> <a href="mailto:admissions@ncerc.ac.in">admissions@ncerc.ac.in</a> , <a href="mailto:jcetadmissions@nehrucolleges.com">jcetadmissions@nehrucolleges.com</a></li>    
 </ul>
 </div>
 </div>
@@ -109,9 +109,9 @@ Tamil Nadu, India.</li>
 
 </section>
     
-    <?php include 'footer-contact-links.php'?>  
+    <?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->

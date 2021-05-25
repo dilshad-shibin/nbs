@@ -76,7 +76,7 @@ ISO 9001:2015 certified<br>
 <div class="h_apply"><a class="theme_btn" href="apply-online.php">Admission 2021-22</a></div>    
 <div class="h_cont_info">
 <ul>
-<li class="h_phone"><i class="icofont-phone"></i> +91 - 860 6554 777</li>    
+<li class="h_phone"><i class="icofont-phone"></i> +91 - 759 3984 222</li>    
 <li><i class="icofont-ui-message"></i> <a href="mailto:directormba@ncerc.ac.in">directormba@ncerc.ac.in</a></li>
 </ul>    
 </div>
