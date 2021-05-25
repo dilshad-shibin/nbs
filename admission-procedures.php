@@ -38,7 +38,7 @@
 </div> 
 <div class="col-lg-6 align_items_center">
 <div class="ap_bnr_right pl-lg-5">
-<h3>Admission 2020-2021</h3>
+<h3>Admission 2021-2022</h3>
 <p>Deciding to study an MBA is a big decision to take for aspiring global managers.</p>
 <a class="theme_btn" href="apply-online.php">Apply Online</a>
 </div>
@@ -54,7 +54,7 @@
 <h3 class="com_title">Admission Procedure</h3>
 <ul class="bult_sec">
 <li>Get prescribed application form of the college by remitting the cost of it in cash or through DD.</li>
-<li>The College will conduct a Group Discussion and Interviews and based on their performance of group discussion & interview and qualifying examination and CAT / CMAT / KMAT candidates will be short listed for Selection. ( This may change as per APJAKTU rules framed from time to time for MBA Admission). The weightage of Entrance Test, G.D. & P.I. is 80:10:10.</li>
+<li>The College will conduct a Group Discussion and Interviews and based on their performance of group discussion & interview and qualifying examination and CAT / CMAT / KMAT candidates will be short listed for Selection. ( This may change as per APJAKTU rules framed from time to time for MBA Admission).</li>
 <li>Candidates who are short-listed will be intimated by post about their selection. They have to complete other formalities including remittance of fees, etc, within the stipulated time.</li>
 <li>Compliance of the above will make a candidate eligible for admission to the schools.</li>
 </ul>
