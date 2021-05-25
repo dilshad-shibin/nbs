@@ -141,7 +141,7 @@
                             <img src="images/faculty/ananthi-kk.jpg" alt="">
                         </div>
                         <h4>KK Ananthi</h4>
-                        <span>Administration & Academics</span>
+                        <span>Assistant Professor</span>
                         <p>25 years teaching experience in various aided and self-financing colleges..</p>
                         <a href="faculty-single4.php" class="btn">Read More</a>
                     </div>
