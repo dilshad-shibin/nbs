@@ -120,7 +120,21 @@
 </div>
 </section>
 
-<section class="addon-course">
+<section class="organisational-profile">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <h3 class="com_title">Add On Programmes</h3>
+                <p>Students get opportunities to take add on certificate courses along with their senior semester regular courses.
+                    This will add value to their specializations as well as enable them to get focused jobs on many industry sectors.
+                    Contents of the course include class room sessions, case studies, mini-projects, industry visits etc.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="addon-course bg_light">
     <div class="container">
         <div class="row">
             <h3 class="com_title">Add On Courses</h3>
@@ -135,6 +149,8 @@
         </div>
     </div>
 </section>
+
+
     
 <?php include 'footer-contact-links.php'; ?>  
     
