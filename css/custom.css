@@ -3721,5 +3721,14 @@ i.air_cont_icon {
 }
 
 
+.newsscr_title_img{
+  display: flex;
+  align-items: center;
+  background: #fff;
+  width: 20%;
+  max-width: 144px;
+}
+
+
 
 /*# sourceMappingURL=custom.css.map */

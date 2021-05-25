@@ -3,31 +3,33 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-4">
-<div class="ftr_logo">
-<img src="images/logo-white.svg">    
-</div>   
-<div class="footer_social">
-<ul class="">
-                                <li>
-     <a href="#" target="_blank" title="Facebook">
-                                        <i class="fab fa-facebook-f"></i></a>
-                                    
-                                </li>
-                              
-                                <li>
-                                    <a href="#" target="_blank" title="Instagram">
-                                        <i class="fab fa-instagram"></i>
-                                    </a>
-                                </li>
-                                
-                                <li>
-                                    <a href="#" target="_blank" title="Youtube">
-                                        <i class="fab fa-youtube"></i>
-                                    </a>
-                                </li>
-                            </ul>
+    <div class="ftr_logo">
+        <img src="images/logo-white.svg">    
+    </div>   
+    <div class="footer_social">
+        <ul class="">
+            <li>
+                <a href="#" target="_blank" title="Facebook">
+                    <i class="fab fa-facebook-f"></i>
+                </a>                    
+            </li>                  
+            <li>
+                <a href="#" target="_blank" title="Instagram">
+                    <i class="fab fa-instagram"></i>
+                </a>
+            </li>                    
+            <li>
+                <a href="#" target="_blank" title="Youtube">
+                    <i class="fab fa-youtube"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <!-- <div class="footer-img">
+        <img src="images/aicte.png" alt="">
+    </div> -->
 </div>
-</div>  
+
 <div class="col-lg-8">
 <div class="ftr_nav pl-lg-5">
 <h4>Quick Links</h4>

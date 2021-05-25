@@ -51,6 +51,9 @@
 <div class="container">
 <div class="news_wraper">
 <div class="newsscr_title">Whats New</div>
+<div class="newsscr_title_img">
+    <img src="images/aicte.png" alt="">
+</div>
 <div class="n_scr_div">
 
 <?php

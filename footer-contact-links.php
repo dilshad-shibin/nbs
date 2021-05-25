@@ -4,9 +4,12 @@
 <div class="col-lg-6 align_items_center">
 <div class="fc_left">
 <ul>
-<li class=" fc_phone"><i class="fas fa-phone-alt"></i> <a href="tel:+918606554777">+91 - 860 6554 777</a> </li>    
+<li class=" fc_phone"><i class="fas fa-phone-alt"></i> <a href="tel:+918606554777">+91 - 7593984222</a> </li>    
 <li><i class="far fa-envelope"></i> <a href="mailto:directormba@ncerc.ac.in">directormba@ncerc.ac.in</a> </li> 
 </ul> 
+<!-- <div>
+    <img src="images/aicte.png" alt="">
+</div> -->
 </div>  
 </div>  
 <div class="col-lg-6 ">
