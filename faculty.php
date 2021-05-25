@@ -74,7 +74,7 @@
                         </div>
                         <h4>D<span style="text-transform: lowercase; color:#1d386a">r</span> Sheela Srivastava</h4>
                         <span>Director NSM</span> <br>
-                        <span>Head Training & Placements <br>(NSM & JBS)</span>
+                        <!-- <span>Head Training & Placements <br>(NSM & JBS)</span> -->
                         <p>I’m a Doctorate in Economics, Marketing of Banking Services, backed by a Gold Medal..</p>
                         <a href="faculty-single1.php" class="btn">Read More</a>
                     </div>
@@ -85,7 +85,7 @@
                             <img src="images/faculty/sreeranjan.jpg" alt="">
                         </div>
                         <h4>Sreeranjan Menon T</h4>
-                        <span>Assistant Professor NSM</span> <br>
+                        <!-- <span>Assistant Professor NSM</span> <br> -->
                         <span>Lead Admission Officer NGI, Kerala</span>
                         <p>Assistant Professor in Management with an MBA specialized in Marketing, UGC NET..</p>
                         <a href="faculty-single.php" class="btn">Read More</a>
@@ -94,12 +94,12 @@
                 <div class="col-lg-4">
                     <div class="intro_box">
                         <div class="thumb-img">
-                            <img src="images/faculty/hameem-p.jpg" alt="">
+                            <img src="images/faculty/sijo.jpg" alt="">
                         </div>
-                        <h4>Hameem P</h4>
-                        <span>Assistant Professor</span>
-                        <p>He is presently working as Assistant Professor &amp; Placement coordinator at Nehru..</p>
-                        <a href="faculty-single2.php" class="btn">Read More</a>
+                        <h4>Sijo Joseph Chakola</h4>
+                        <span>Associate Professor</span>
+                        <p>Associate Professor - NSM with 19.5 year of Exp, specialized in HR and Marketing..</p>
+                        <a href="faculty-single6.php" class="btn">Read More</a>
                     </div>
                 </div><!-- /col -->
                 <div class="col-lg-4">
@@ -116,17 +116,6 @@
                 <div class="col-lg-4">
                     <div class="intro_box">
                         <div class="thumb-img">
-                            <img src="images/faculty/ananthi-kk.jpg" alt="">
-                        </div>
-                        <h4>KK Ananthi</h4>
-                        <span>Administration & Academics</span>
-                        <p>25 years teaching experience in various aided and self-financing colleges..</p>
-                        <a href="faculty-single4.php" class="btn">Read More</a>
-                    </div>
-                </div><!-- /col -->
-                <div class="col-lg-4">
-                    <div class="intro_box">
-                        <div class="thumb-img">
                             <img src="images/faculty/alex-kuruvila.jpg" alt="">
                         </div>
                         <h4>Alex Kuruvila</h4>
@@ -138,12 +127,23 @@
                 <div class="col-lg-4">
                     <div class="intro_box">
                         <div class="thumb-img">
-                            <img src="images/faculty/sijo.jpg" alt="">
+                            <img src="images/faculty/hameem-p.jpg" alt="">
                         </div>
-                        <h4>Sijo Joseph Chakola</h4>
-                        <span>Associate Professor</span>
-                        <p>Associate Professor - NSM with 19.5 year of Exp, specialized in HR and Marketing..</p>
-                        <a href="faculty-single6.php" class="btn">Read More</a>
+                        <h4>Hameem P</h4>
+                        <span>Assistant Professor</span>
+                        <p>He is presently working as Assistant Professor &amp; Placement coordinator at Nehru..</p>
+                        <a href="faculty-single2.php" class="btn">Read More</a>
+                    </div>
+                </div><!-- /col -->
+                <div class="col-lg-4">
+                    <div class="intro_box">
+                        <div class="thumb-img">
+                            <img src="images/faculty/ananthi-kk.jpg" alt="">
+                        </div>
+                        <h4>KK Ananthi</h4>
+                        <span>Administration & Academics</span>
+                        <p>25 years teaching experience in various aided and self-financing colleges..</p>
+                        <a href="faculty-single4.php" class="btn">Read More</a>
                     </div>
                 </div><!-- /col -->
             </div><!-- row -->
