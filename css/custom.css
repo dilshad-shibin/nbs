@@ -3729,6 +3729,13 @@ i.air_cont_icon {
   max-width: 144px;
 }
 
+@media(max-width: 1199px){
+  .newsscr_title_img{
+    max-width: 100px;
+    width: 100%;
+  }
+}
+
 
 
 /*# sourceMappingURL=custom.css.map */
