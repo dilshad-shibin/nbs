@@ -44,7 +44,7 @@
 <div class="row justify-content-center">
 <div class="col-lg-9 in_pgm_title">
 <h1 class="com_title ">About The Programme - MBA</h1>    
-<p>Two year full time course spread over 6 Trimesters. Aspirants Can Specialize In Areas Such As :</p>    
+<p>Two year full time course spread over 6 semester system. Aspirants can specialize in areas such as :</p>    
 </div>    
 </div>
 <div class="row">
