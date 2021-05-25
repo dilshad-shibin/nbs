@@ -149,6 +149,6 @@ ISO 9001:2015 certified<br>
 
 </section>
 
-<a href="tel:+918606554777" class="verticalbtn menu-tigger"><i class="fas fa-phone"></i> Admission</a>
-<a class="call_btn" href="tel:+918606554777" target="" title="Call us"></a>
-<a class="whatsapp_btn" href="https://api.whatsapp.com/send?phone=918606554777" target="_blank" title="Whatsapp"></a>
+<a href="tel:+917593984222" class="verticalbtn menu-tigger"><i class="fas fa-phone"></i> Admission</a>
+<a class="call_btn" href="tel:+917593984222" target="" title="Call us"></a>
+<a class="whatsapp_btn" href="https://api.whatsapp.com/send?phone=917593984222" target="_blank" title="Whatsapp"></a>
