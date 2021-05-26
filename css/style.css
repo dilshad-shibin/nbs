@@ -648,6 +648,10 @@
     margin-bottom: 50px;
 }
 
+.placement-details-tab.publication-tab{
+    margin-bottom: 50px;
+}
+
 .placement-details-tab .nav li a {
     display: block;
     height: 45px;
