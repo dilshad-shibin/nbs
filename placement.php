@@ -57,7 +57,10 @@
                             <a href="#ncpir" class="nav-link" data-toggle="tab" aria-expanded="false">NCPIR</a>
                         </li>
                         <li>
-                            <a href="#placement-students" class="nav-link" data-toggle="tab" aria-expanded="false">Placements</a>
+                            <a href="#placement-students" class="nav-link" data-toggle="tab" aria-expanded="false">NSM Placements</a>
+                        </li>
+                        <li>
+                            <a href="#jbs-placement" class="nav-link" data-toggle="tab" aria-expanded="false">JBS Placements</a>
                         </li>
                     </ul>
                 </div>
@@ -396,7 +399,7 @@
                                 <!-- placement area -->
                                 <section class="place-section">
                                     <div class="container">
-                                            <h3 class="com_title">Our Placements</h3>
+                                            <h3 class="com_title">NSM Placements</h3>
                                         <div class="row">
                                             <div class="col-lg-4">
                                                 <div class="intro_box">
@@ -478,6 +481,75 @@
                                                     <h4>Designation: <strong>NA</strong></h4>
                                                 </div>
                                             </div><!-- /col -->
+                                        </div><!-- row -->
+                                    </div><!-- Container -->
+                                </section>
+                            </div><!-- row close -->
+                        </div>
+                        <div id="jbs-placement" class="tab-pane">
+                            <div class="row">
+                                <!-- placement area -->
+                                <section class="place-section">
+                                    <div class="container">
+                                            <h3 class="com_title">JBS Placements</h3>
+                                        <div class="row">
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                    <div class="placement-img img-11"></div>
+                                                    <h4>Name: <strong>Greeshma M</strong></h4>
+                                                    <h4>Company: <strong>Chegg India</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                <div class="placement-img img-12"></div>
+                                                    <h4>Name: <strong>Swetha P K</strong></h4>
+                                                    <h4>Company: <strong>Chegg India & Justdial</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                <div class="placement-img img-10"></div>
+                                                    <h4>Name: <strong>Udhaya P</strong></h4>
+                                                    <h4>Company: <strong>Chegg India</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                    <div class="placement-img img-14"></div>
+                                                    <h4>Name: <strong>Sumaya Assanar</strong></h4>
+                                                    <h4>Company: <strong>Chegg India</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                <div class="placement-img img-15"></div>
+                                                    <h4>Name: <strong>Haripriya</strong></h4>
+                                                    <h4>Company: <strong>Justdial</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                <div class="placement-img img-16"></div>
+                                                    <h4>Name: <strong>Sruthi M</strong></h4>
+                                                    <h4>Company: <strong>Arabian Group-Kerala</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            <div class="col-lg-4">
+                                                <div class="intro_box">
+                                                <div class="placement-img img-17"></div>
+                                                    <h4>Name: <strong>Jisha</strong></h4>
+                                                    <h4>Company: <strong>NA</strong></h4>
+                                                    <h4>Designation: <strong>NA</strong></h4>
+                                                </div>
+                                            </div><!-- /col -->
+                                            
                                         </div><!-- row -->
                                     </div><!-- Container -->
                                 </section>

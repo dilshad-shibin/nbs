@@ -604,6 +604,36 @@
     background-size: cover;
 }
 
+.placement-section .placement-img.img-11{
+    background-image: url(../images/placement/jbs/GREESHMA-M.jpg);
+    background-size: cover;
+}
+
+.placement-section .placement-img.img-12{
+    background-image: url(../images/placement/jbs/SWETHA.jpg);
+    background-size: cover;
+}
+
+.placement-section .placement-img.img-14{
+    background-image: url(../images/placement/jbs/SUMAYA-ASSANAR.jpg);
+    background-size: cover;
+}
+
+.placement-section .placement-img.img-15{
+    background-image: url(../images/placement/jbs/HARIPRIYA.jpg);
+    background-size: cover;
+}
+
+.placement-section .placement-img.img-16{
+    background-image: url(../images/placement/jbs/SRUTHI-M.jpeg);
+    background-size: cover;
+}
+
+.placement-section .placement-img.img-17{
+    background-image: url(../images/placement/jbs/JISHA.jpg);
+    background-size: cover;
+}
+
 .recruitment-area{
     padding: 50px 0;
 }
