@@ -52,7 +52,11 @@
                     </div>
                     <div class="details-description">
                         <p>Assistant Professor in NSM with an MBA specialized in Operations and Marketing,  B.E specialized in Mechanical and with more than 9.5 years of Industry & 7 years of academic experience in teaching MBA students.</p>
-                        <!-- <p>He is also a passionate trainer and has conducted career guidance and personality development sessions for 1000s of UG students in Chennai & Palakkad. </p> -->
+                        <p>Worked in the MBA department for the last 7 years as an Assistant Professor. Teaching subjects like
+                        operations management, innovation, strategic management, and other areas in operations.</p>
+                        <p>Worked in the Marketing and Operations department of various companies for 9.5 years. Started as a
+                        Sales engineer went on to become Sales manager. Further took up position as a mechanical purchaser
+                        and finally ended as a Plant purchase in-charge.</p>
                     </div>
                     <div class="specialization-details">
                         <h3>Specialization</h3>
@@ -60,8 +64,26 @@
                             <li><i class="fa fa-check"></i> Operations & Marketing</li>
                         </ul>
                     </div>
+                    <div class="specialization-details">
+                        <h3>Highlights</h3>
+                        <ul>
+                            <li><i class="fa fa-check"></i> Introduced a brand in a country (Oman).</li>
+                            <li><i class="fa fa-check"></i> Attended various international exhibitions.</li>
+                            <li><i class="fa fa-check"></i> Purchased from national and international companies.</li>
+                        </ul>
+                        <p>Organised various programs in the institution like management fest, conferences, social activities and
+                        other training activities</p>
+                    </div>
+                    <div class="specialization-details">
+                        <h3>Interests</h3>
+                        <ul>
+                            <li><i class="fa fa-check"></i> Operation Management</li>
+                            <li><i class="fa fa-check"></i> Innovation</li>
+                            <li><i class="fa fa-check"></i> Sustianability</li>
+                        </ul>
+                    </div>
                 </div>
-                <div class="details-box">
+                <!-- <div class="details-box">
                     <div class="detail-head mb-3">
                         <h2>ACHIEVEMENTS</h2>
                     </div>
@@ -75,7 +97,7 @@
                             <li><i class="fas fa-award"></i> The Real Super Women 2020 Award Certification by Forever Star India Awards.</li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-5">
                 <div class="single-faculty-widget">
