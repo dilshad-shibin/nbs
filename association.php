@@ -98,6 +98,22 @@
                     <img src="images/associations/excel.jpg" alt="">
                 </div>
             </div>
+            <div class="col-md-12 col-lg-6">
+                <div class="assc-img">
+                    <img src="images/associations/achievements.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+                <div class="assc-content">
+                    <h3>Achievement of Jawaharlal Business School</h3>
+                    <ul>
+                        <li>⦁	Management Meet and Cultural fest</li>
+                        <li>⦁	Webinar</li>
+                        <li>⦁	Students Participation </li>
+                    </ul>
+                    <a href="download/Achievements.docx" download class="theme_btn">Download</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
