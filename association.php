@@ -69,6 +69,39 @@
         </div>
 </section>
 
+<section class="in_progm bg_e2ebef">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9 in_pgm_title">
+                <h1 class="com_title">JBS Associations & Achievements </h1>    
+                <p>Jawaharlal Business School has organized Add on courses for both JBS and NSM students on online mode on </p>
+            </div> 
+        </div>
+        <div class="row align-items-center">
+            <div class="col-md-12 col-lg-6">
+                <div class="assc-img">
+                    <img src="images/associations/airport.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+                <div class="assc-content">
+                    <p><strong>“Airline and Airport Management”</strong> from 8th December to 14th December 2020 by Dr. Balaji, Dean ,Academics Affairs of Nehru College of Aeronautics and Applied Sciences, Coimbatore. The study of Airport Management  course teaches about the management of the Airport. This course provides a broad overview of the airline industry and creates awareness regarding marketing, financial, operational and other factors influencing airport management. It helps to develop different skills within a student to apply managerial skills for the exponential growth of operational and financial airline travels.</p>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+                <div class="assc-content">
+                    <p><strong>“Mastering Data Analysis on Excel”</strong> by Dr. Murugappan, from 15th to 18th December 2020 conducted by Bhannari Amman Institute of Technology, Erode , Tamil Nadu. Excel can enhance understanding of content within a grahic presentation of the information; it provides a visual representation of data that makes it easier to analyze. Excel reduces the difficulty of plotting data and allows students a means for interpreting the data.A successful Excel spreadsheet will organize raw data into a readable format that makes it easier to extract actionable insights. With more complex data, Excel allows one to customize fields and functions that make calculations as per ones need.</p>
+                </div>
+            </div>
+            <div class="col-md-12 col-lg-6">
+                <div class="assc-img">
+                    <img src="images/associations/excel.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 
 
 <?php include 'footer-contact-links.php'; ?>  
