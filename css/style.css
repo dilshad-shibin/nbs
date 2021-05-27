@@ -599,6 +599,11 @@
     background-size: cover;
 }
 
+.placement-section .placement-img.img-010{
+    background-image: url(../images/placement/binitha.jpg);
+    background-size: cover;
+}
+
 .placement-section .placement-img.img-10{
     background-color: grey;
     background-size: cover;

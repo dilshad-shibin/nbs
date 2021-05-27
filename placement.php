@@ -475,7 +475,7 @@
                                             </div><!-- /col -->
                                             <div class="col-lg-4">
                                                 <div class="intro_box">
-                                                <div class="placement-img img-10"></div>
+                                                <div class="placement-img img-010"></div>
                                                     <h4>Name: <strong>Binitha KB</strong></h4>
                                                     <h4>Company: <strong>Chegg India</strong></h4>
                                                     <h4>Designation: <strong>NA</strong></h4>
