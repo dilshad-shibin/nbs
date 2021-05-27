@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
 
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -161,6 +161,31 @@
 </section>
 
 
+<section class="web_bnr_sec" >
+<div class="container">
+<div class="row ">
+<div class="col-lg-6">
+<div class="ap_bnr_left">
+<div class="comn_img_block">
+<img src="images/newsletter/karma21.jpg">    
+</div>
+</div>
+</div> 
+<div class="col-lg-6 align_items_center">
+<div class="web_bnr_right pl-lg-5">
+<h3>KARMA 2021</h3>
+<p>KARMA evolves the platform to sync the ground realities and perceptions of personal and professional status of budding youngsters. It exercises the volume of desires and interests expressed by more than thousands of budding youngsters under a roof where recognitions, participation and competitive spirit become expressive.
+</p>
+<p>KARMA positions the contentions of spirit, knowledge and freedom of expression by a formidable interest group for developing social and industry perspectives.</p>
+<p>KARMA sequences events with language of hope, decides the success as not winning a prize alone, and develops the art of making activities meaningful and impressive on its completion.</p>
+<p>KARMA manifests and maintains the tempo of “insights” in youngsters as objectives, evolves contentions as a base for subjective dominance</p>
+<p>This is a day full of management competitions and cultural extravaganza for institutes all over South India. This provides great opportunity for students to interact with corporate leaders, other management students and also to take part in many other management events.</p>
+</div>
+</div> 
+</div>
+</div>
+</section>
+
 
 <section class="web_bnr_sec_two" >
 <div class="container">
@@ -209,9 +234,9 @@
 
     
     
-<?php include 'footer-contact-links.php'?>  
+<?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->
