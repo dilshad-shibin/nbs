@@ -69,7 +69,7 @@
 <div class="header_align">
 <div class="logo_sec">
 <a href="index.php">
-<img src="images/new-logo.svg">
+<img src="images/new-logo-final.svg">
 </a>
 <div class="h_iso">
 <!-- naac accredited <br>

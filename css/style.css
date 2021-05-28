@@ -1256,3 +1256,27 @@
 .bnr_cont ul li{
     width: 100%;
 }
+
+
+li.bnr_ngilogo{
+    display: block;
+}
+
+@media(min-width:768px){
+    li.bnr_ngilogo{
+        display: none !important;
+    }
+    .bnr_cont ul{
+        width: 80%;
+    }
+}
+
+.logo_sec a{
+    width: 230px;
+}
+
+@media (max-width: 767px){
+    .logo_sec a {
+        width: 150px;
+    }
+}
