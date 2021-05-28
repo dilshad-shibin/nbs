@@ -1249,5 +1249,10 @@
     }
 }
 
+.h_iso img{
+    max-width: 170px;
+}
 
-
+.bnr_cont ul li{
+    width: 100%;
+}

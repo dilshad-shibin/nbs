@@ -69,11 +69,12 @@
 <div class="header_align">
 <div class="logo_sec">
 <a href="index.php">
-<img src="images/logo.svg">
+<img src="images/new-logo.svg">
 </a>
 <div class="h_iso">
-naac accredited <br>
-ISO 9001:2015 certified<br>
+<!-- naac accredited <br>
+ISO 9001:2015 certified<br> -->
+<img src="images/ngi-logo.svg" alt="">
 <div class="h_rank"></div>
 5<sup>th</sup> Best B-Schools in Kerala
 </div>

@@ -39,9 +39,9 @@
 <h6>5<sup>th</sup> Best B-Schools in Kerala</h6>    
 </div>
 </li>    
-<li class="bnr_ngilogo">
+<!-- <li class="bnr_ngilogo">
 <div class=""><img src="images/ngi.svg"></div>    
-</li>    
+</li>     -->
 </ul>
 </div>
 </div>
