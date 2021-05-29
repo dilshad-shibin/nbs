@@ -24,7 +24,7 @@
 <body> 
 
 <div class="body_wraper">
-<?php include 'header.php'?>  
+<?php include 'header.php'; ?>  
 
 <section class="inbnr comn_inbnr" style="background:url(images/inbnr.jpg) no-repeat center; background-size:cover">
 <div class="container">
@@ -35,6 +35,31 @@
 </div>
 </div> 
 </div>
+</div>
+</section>
+
+
+<section class="web_bnr_sec" >
+<div class="container">
+<div class="row ">
+<div class="col-lg-6">
+<div class="ap_bnr_left">
+<div class="comn_img_block">
+<img src="images/webinar/mental-health.jpg">    
+</div>
+</div>
+</div> 
+<div class="col-lg-6 align_items_center">
+<div class="web_bnr_right pl-lg-5">
+<h3>Mental Health & Well Being During the Current Pandemic Times</h3>
+<p>Dr. Mallika Balakrishnan (Student Counselor | NGI)</p>
+<p>Time: 11 AM</p>
+<p>Date: 31/05/2021 Monday</p>
+</div>
+</div> 
+    
+</div>
+
 </div>
 </section>
 
@@ -225,9 +250,9 @@
     
     
     
-<?php include 'footer-contact-links.php'?>  
+<?php include 'footer-contact-links.php'; ?>  
     
-<?php include 'footer.php'?>  
+<?php include 'footer.php'; ?>  
     
  
 </div> <!-- bodywrapper -->
