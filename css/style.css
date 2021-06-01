@@ -1280,3 +1280,20 @@ li.bnr_ngilogo{
         width: 150px;
     }
 }
+
+
+.pub-img-div2{
+    display: flex;
+    flex-direction: column;
+}
+
+.pub-img-div2 div{
+    margin-left: 10px;
+}
+
+.pub-img-div2 .theme_btn{
+    padding: 9px 35px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 12px;
+}

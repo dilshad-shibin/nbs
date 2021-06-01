@@ -129,7 +129,10 @@
                                     <div class="col-12 mb-3">
                                             <div class="pub-img">
                                             <div><img src="images/faculty/jbs/img2-126.jpg" alt=""></div>
-                                            <div><p>Dr.Ashokan.C</p><span>HOD & Professor</span></div>
+                                            <div class="pub-img-div2">
+                                                <div><p>Dr.Ashokan.C</p><span>HOD & Professor</span></div>
+                                                <div><span><a href="download/BROCHURE.docx" class="theme_btn" download>Download</a></span></div>
+                                            </div>
                                             </div>
                                             <p><strong>1. “Factors Influencing the Academic Ability of Students- An empirical study among MBA Students”- Management Wisdom-Volume.6, Issue 2. July-Dec 2017.pp 27-36</strong></p>
                                             <p><strong>2. “Factors influencing the satisfaction levels of MBA Programme-An empirical study in Coimbatore”- Organizational Management- Vol.XXXIII.No.3 Oct-Dec.2017 pp10-15</strong> </p>
