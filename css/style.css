@@ -1297,3 +1297,52 @@ li.bnr_ngilogo{
     margin-top: 10px;
     font-size: 12px;
 }
+
+.feedback-section{
+    padding: 100px 0;
+}
+
+.feedback-section h3{
+    color: #1d386a;
+    font-size: 35px;
+    font-weight: 600;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.feedback-section h3:before{
+    position: absolute;
+    content: "";
+    bottom: -10px;
+    background-color: #1d386a;
+    width: 15%;
+    height: 3px;
+    left: 0;
+}
+
+.feed-box{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .15);
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 25px;
+}
+
+.feed-box img{
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 15px;
+}
+
+.feed-box h5{
+    color: #1d386a;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.box-hidden{
+    display: none;
+}
+
+.box-hidden-jbs{
+    display: none;
+}
