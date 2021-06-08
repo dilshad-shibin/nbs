@@ -388,7 +388,7 @@
 .logo_sec .h_rank{
     color: #1d386a;
     border-top: 1px solid rgba(0,0,0,0.2);
-    padding-top: 5px;
+    /* padding-top: 5px; */
     margin-top: 5px;
 }
 
@@ -1250,7 +1250,7 @@
 }
 
 .h_iso img{
-    max-width: 170px;
+    max-width: 200px;
 }
 
 .bnr_cont ul li{

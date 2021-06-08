@@ -67,12 +67,12 @@ if ($rowsno == 0) {
 <div class="news-scrollbar">
                             <ul>
  <li><a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=1003"><span class="newsblink">New</span>STUDENTS (2021 passing out batch) PLACED IN CHEGG # JCET</a>  </li>
- <li> <a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=995">Extension of last date for AICTEs Pragati and Saksham Scholarship Scheme</a>
+ <li> <a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=995">Extension of last date for AICTE Pragati and Saksham Scholarship Scheme</a>
                                 </li>
 <li><a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=979">EXTENSION ON ONLINE APPLICATION OF PG SCHOLARSHIP SCHEMES SUBMISSION</a>
                                 </li>
 <li> <a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=1003"><span class="newsblink">New</span>STUDENTS (2021 passing out batch) PLACED IN CHEGG # JCET</a>  </li>
-<li> <a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=995">Extension of last date for AICTEs Pragati and Saksham Scholarship Scheme</a>
+<li> <a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=995">Extension of last date for AICTE Pragati and Saksham Scholarship Scheme</a>
   </li>
 <li> <a target="_blank" href="http://jawaharlalcolleges.com/blog/?p=979">EXTENSION ON ONLINE APPLICATION OF PG SCHOLARSHIP SCHEMES SUBMISSION</a>
 </li>
