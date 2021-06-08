@@ -42,11 +42,18 @@
 <div class="container">
 <div class="row">
 <div class="col-lg-12">
-<div class="ngi_sec1_cont">
+<div class="">
 <div class="ngi_logo_">
 <img src="images/ngi-logo.svg">    
 </div>
     
+<!-- <h1>History</h1> -->
+<p>Nehru Group of Institutions was established in 1968 in Kuniamuthur, Coimbatore, TamilNadu as a centre of educational excellence to nurture, guide and ignite the spirit of the young minds in Tamil Nadu and Kerala.This was fifty years ago when education opportunities were limited and information centres were not equipped with adequate resources.NGI was founded on this philosophy to serve students, especially from economically backward backgrounds looking out for continuing education pathways with an academic and vocational direction.</p>
+<p>Late P. K. Das, our founder-chairman gave up his lucrative job in the Air Force and chose to pursue his dream of building a centre of educational excellence. With a vision to establish Nehru Group of Institutions, he embarked on the mission, encountering first-hand experience of the difficulties and the challenges that sprung up unawares. His demise in 2009, saw the mantle of responsibility fall on the very able shoulders of his sons, Managing Trustee, Adv. Dr. P. Krishna Das and CEO & Secretary, Dr. P. Krishna Kumar, who weathered the fiercest of storms and challenges, to build up the walls and to emerge as contenders in the now changing world of education. They have stood fast in their faith of seeing their father’s vision fulfilled and get the institution a University status, without compromising on the ethics and principles,</p>
+<p>We have, in the past 50 years, successfully nurtured, groomed and placed approximately 1,00,000 plus students in the best of corporate, here and abroad. Our service is complete. We have branches ranging from architecture to technology across Tamil Nadu and Kerala, our corporate office in Coimbatore, all delivering objective advice and maintaining a professional level of service to students and parents.</p>
+<p>NGI has risen above every storm and challenge and has stood tall even while going through the fiery furnace of tests & has grown to be one of the best private self financing colleges in coimbatore. 2018 marks 50 years of this unstoppable VICTORY.</p>
+
+
 <p>Nehru College of Educational and Charitable Trust, established at an auspicious moment in the year 1968, with the primary objective of rendering selfless, dedicated and yeomen service to cause of higher education originally in the field of Aeronautical Engineering and subsequently in the field of rest of engineering branches, Management, Arts, Science, and Paramedical Sciences and has added feather after feather to its Cap. Its educational service to the poor underprivileged and downtrodden in the society is freely accessed and widely appreciated by the people, especially from Tamil Nadu and Kerala. </p>
 <p>Over the period of nearly four decades, it has established and patronized a number of prestigious Educational Institutions, all of which have grown to the stature of being accredited with ISO 9001:2000 certification by the International Certification Services. The Trust headquartered at Coimbatore has spread its wings to the neighbouring Kerala State too by establishing Educational Institutions of high reputation.</p>
 </div>
