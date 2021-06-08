@@ -124,9 +124,8 @@
                     <h5>Sreelakshmi PK [NCE19MBA17]</h5>
                     <p>I’m Sreelakshmi P.K, second year MBA student at Nehru School Of Management.
                         It was a great privilege for me to do my MBA course at Nehru School Of
-                        Management.
+                        Management.I’m satisfied with faculties and facilities provided.
                     </p>
-                    <p>I’m satisfied with faculties and facilities provided</p>
                 </div>
             </div>
             <div class="col-md-6 box-hidden">
