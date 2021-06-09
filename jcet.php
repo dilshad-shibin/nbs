@@ -58,16 +58,25 @@
             <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#menu2" role="tab" aria-controls="" aria-selected="false">HOD's Desk</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#menu8" role="tab" aria-controls="" aria-selected="false">Why MBA</a>
+            </li>
 					<li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#menu3" role="tab" aria-controls="" aria-selected="false">PEO & PSO</a>
             </li>	
             <li class="nav-item">
+                <a class="nav-link" data-toggle="tab" href="#menu9" role="tab" aria-controls="" aria-selected="false">Clubs @ JBS</a>
+            </li>	
+            <li class="nav-item">
                 <a class="nav-link " data-toggle="tab" href="#menu4" role="tab" aria-controls="" aria-selected="false">Facilities</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link " data-toggle="tab" href="#menu10" role="tab" aria-controls="" aria-selected="false">Placements</a>
             </li>
 			 <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#menu5" role="tab" aria-controls="" aria-selected="false">Achievements </a>
             </li>
-			<li class="nav-item">
+			      <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#menu6" role="tab" aria-controls="" aria-selected="false">Association </a>
             </li>
 	
@@ -90,6 +99,7 @@
 </div>
 </div>
 </div>
+
 <div class="tab-pane fade  " id="menu2" >
 <div class="ins_hod_message text_justify">
 <div class="container">
@@ -118,6 +128,169 @@
 		</div>
 </div>  
 </div>
+
+<div class="tab-pane fade  " id="menu8" >
+				<div class="nsm_why_mba pt-md-3">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10 nsm_wm_cont">
+                                <h3 class="com_title">WHY MBA?</h3>
+                                <p>Deciding to study an MBA (Master of Business Administration) is a big decision to take for aspiring global managers. An MBA will offer you wealth of advantages, especially when it's offered by a top business schools with a very good reputation. Getting a higher salary after graduation, landing a top management position, or even becoming your own boss are just a few of the extra advantages.</p>    
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="in_w_box in_w_box2">
+                                    <div class="in_w_box_icon"><i class="fas fa-user-friends"></i></div> 
+                                    <h5>Skilled Lecturers  </h5>
+                                    <p>To equip students with alternate lifelines of employability like entrepreneurship incubation etc.</p>
+                                </div>    
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="in_w_box in_w_box2">
+                                    <div class="in_w_box_icon"><i class="air_cont_icon"></i></div>
+                                    <h5>A/C class rooms</h5>
+                                    <p>Students can enjoy perks such as private bedrooms and guest bathrooms, as well as spin and yoga classes. Amenities include a clubhouse, 24-hour gym facilities</p>
+                                </div>    
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="in_w_box in_w_box2">
+                                    <div class="in_w_box_icon"><i class="fas fa-plane"></i></div>
+                                    <h5>International Trip</h5>
+                                    <p>International trip to Malaysia for students to enable them to have an international exposure.</p>
+                                </div>    
+                            </div>
+                        </div>
+                    </div>
+                </div>
+				<section class="in_progm bg_light">
+    <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9 in_pgm_title">
+                    <h1 class="com_title">Associations and Partnerships</h1>    
+                </div>    
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                   <a href="https://nipm.in/" target="_blank">
+                    <div class="academic-col" style="padding: 20px">
+                        <div class="academic-img text-center">
+                            <img src="images/associations/nipm-logo.png" alt="">
+                        </div>
+                    </div>
+                   </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="http://www.trichurmanagementassociation.com/index.php" target="_blank">
+                        <div class="academic-col" style="padding: 20px">
+                            <div class="academic-img text-center">
+                                <img src="images/associations/tma-logo.png" alt="">
+                            </div>
+                        </div>
+                    </a>
+                </div> 
+            </div>
+			<div class="row align-items-center" style="margin-top:100px">
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-img">
+						<img src="images/associations/airport.jpg" alt="">
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-content">
+						<p><strong>“Airline and Airport Management”</strong> from 8th December to 14th December 2020 by Dr. Balaji, Dean ,Academics Affairs of Nehru College of Aeronautics and Applied Sciences, Coimbatore. The study of Airport Management  course teaches about the management of the Airport. This course provides a broad overview of the airline industry and creates awareness regarding marketing, financial, operational and other factors influencing airport management. It helps to develop different skills within a student to apply managerial skills for the exponential growth of operational and financial airline travels.</p>
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-content">
+						<p><strong>“Mastering Data Analysis on Excel”</strong> by Dr. Murugappan, from 15th to 18th December 2020 conducted by Bhannari Amman Institute of Technology, Erode , Tamil Nadu. Excel can enhance understanding of content within a grahic presentation of the information; it provides a visual representation of data that makes it easier to analyze. Excel reduces the difficulty of plotting data and allows students a means for interpreting the data.A successful Excel spreadsheet will organize raw data into a readable format that makes it easier to extract actionable insights. With more complex data, Excel allows one to customize fields and functions that make calculations as per ones need.</p>
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-img">
+						<img src="images/associations/excel.jpg" alt="">
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-img">
+						<img src="images/associations/achievements.jpg" alt="">
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-content">
+						<h3>Achievement of Jawaharlal Business School</h3>
+						<ul>
+							<li>⦁	Management Meet and Cultural fest</li>
+							<li>⦁	Webinar</li>
+							<li>⦁	Students Participation </li>
+						</ul>
+						<a href="download/Achievements.docx" download class="theme_btn">Download</a>
+					</div>
+				</div>
+        	</div>
+			<div class="row justify-content-center" style="margin-top:100px">
+                            <div class="col-lg-9 in_pgm_title">
+                                <h1 class="com_title">International IV's & National Tours</h1>    
+                            </div>    
+                        </div>
+                        <div class="row">
+                                    <div class="col-lg-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/iv/iv.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Industrail Visit & South Indian Tour(Batch 2018-20)</h3>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/iv/iv2.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Industrail Visit & South Indian Tour(Batch 2018-20)</h3>
+                                        </div>
+                                    </div>
+                                    </div>     
+                                    <div class="col-lg-4">
+                                        <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/iv/iv-2019.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Industrail Visit(KSE Ltd Irinjalkuda, Batch 2019)</h3>
+                                        </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                    <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/iv/iv-2018.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>RUBFILLA Ltd, Kanjikode, Palakkad & MILMA Cattle Feed, Malampuzha, Palakkad(Batch 2018)</h3>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="academic-col">
+                                        <div class="academic-img">
+                                            <img src="images/iv/iv-2017.jpg" alt="">
+                                        </div>
+                                        <div class="academic-content">
+                                            <h3>Industrail Visit(MRF Ltd Goa, Batch 2017)</h3>
+                                        </div>
+                                    </div>
+                                    </div> 
+                        </div>
+        </div>
+</section>
+
+
+</div>
+
     
 <div class="tab-pane fade  " id="menu3" >
 <div class="ped_tabcont">
@@ -157,6 +330,47 @@
 </div>    
 </div>    
 </div>
+</div>
+
+
+<div class="tab-pane fade  " id="menu9" >
+				<div class="nsm_why_mba pt-md-3">
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-10 nsm_wm_cont">
+                                <h3 class="com_title">LIFE – Learn It from Experience </h3>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12">
+                                <h3>Mission </h3>
+                                <p>Learning every aspect of academic and social life through real life experiences and thereby enhancing the personal as well as professional growth. </p>
+                                <br>
+                                <h3>Objectives </h3>
+                                <p>- To create professional awareness with respect to various functional aspects of an organization through real life experiences. </p>
+                                <p>- To provide a platform for the fine arts among the students to nurture different talents like painting, sculpture, music, poetry, dance, photography, film making etc </p>
+                                <p>- To establish social commitment through harmonious relation with the society</p>
+                                <p>- To promote sportsman spirit of the students through active involvement in various gamesTo promote sportsman spirit of the students through active involvement in various games</p>
+                                <p>- To provide for entrepreneurial development to make a self sufficient generation</p>
+                                <br>
+                                <h3>Benefits through Clubs </h3>
+                                <p>- Helps to promote education and awareness about the field/subject through activities</p>
+                                <p>- Gives a feeling of closeness to other members and thereby create team spirit</p>
+                                <p>- Helps in behavior modelling of the students to find out the hidden talents and provide an opportunity for them to progress</p>
+                                <p>- To rejuvenate the students and make them feel engaged</p>
+                                <br>
+                                <h3>Different Clubs </h3>
+                                <ul>
+                                    <li>1. Fine Arts – Euphoria</li>
+                                    <li>2. Social – Dharma</li>
+                                    <li>3. Entrepreneurship Club - I 2A </li>
+                                    <li>4. Sports –Khelsangh </li>
+                                    <li>5. Investors Club - Pinnacle</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 </div>
 
 <div class="tab-pane fade  " id="menu4" >
@@ -213,147 +427,292 @@
 </div>
 </div>
 </div>
+
+
+<div class="tab-pane fade  " id="menu10" >
+	<div class="ins_pmt_tab_cont">
+		<div class="container">
+			<h3 class="com_title">Placement Details</h3>
+			<div class="row">
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<div class="ins_pmt_table">
+						<h5>List Of Students Placed (2015 - 2017) Batch </h5>
+						<div class="table_outer custom_table ">	  
+							<table class="table table-bordered ">
+					
+										<thead>
+										<tr>
+											<th>Name of student </th>
+											<th>Company </th>      
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+											<td>SACHU C R </td>
+											<td>NEWAGE SYSTEM SOLUTIONS  </td>
+										</tr> 
+										<tr>
+											<td>SHABEERALI TM </td>
+											<td>ICICI SECURITIES  </td>
+										</tr> 
+										<tr>
+											<td>DEEPESH. K </td>
+											<td> KPMG </td>
+										</tr> 
+										<tr>
+											<td>RAHUL P </td>
+											<td>KPMG  </td>
+										</tr> 
+										<tr>
+											<td>ANOOP C </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>ASHOK T </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>DEEPESH K </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>NIYAS T </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SHANTHI UNNI </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SHUAIBA K </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SANJITH K P </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SURYA KIRAN S </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>AFSAL NAVAS  </td>
+											<td> ESAF </td>
+										</tr> 
+										<tr>
+											<td>ANOOP C   </td>
+											<td> ESAF </td>
+										</tr> 
+										
+											</tbody>
+							</table>
+		  				</div>
+					</div>
+				</div>    
+				<div class="col-lg-6">
+					<div class="ins_pmt_table">
+						<h5>List Of Students Placed (2016 - 2018) Batch </h5> 
+						<div class="table_outer custom_table">
+		 					<table class="table table-bordered ">
+								<thead>
+								<tr>
+									<th>Name of student </th>
+									<th>Company </th>      
+								</tr>
+								</thead>
+								<tbody>
+								<tr>
+									<td>S.ANIL NAIR </td>
+									<td>ACCENTA EDUCATION </td>
+								</tr> 
+								<tr>
+									<td>RAHUL RAVI </td>
+									<td>ACCENTA EDUCATION  </td>
+								</tr> 
+								
+								<tr>
+									<td>MOHAMED SAMSAD </td>
+									<td>ICICI  </td>
+								</tr> 
+								
+								<tr>
+									<td>SNOOP VS </td>
+									<td>ICICI  </td>
+								</tr> 
+								<tr>
+									<td>MOHAMED ANEES </td>
+									<td>ICICI  </td>
+								</tr> 
+								<tr>
+									<td>JISHNU K </td>
+									<td> ICICI </td>
+								</tr> 
+								
+								<tr>
+									<td>SURYA SREE M. </td>
+									<td>EXIDE LIFE INSURANCE  </td>
+								</tr> 
+								
+								<tr>
+									<td>SAIRA SUSEN </td>
+									<td>OCEAN GROUP  </td>
+								</tr> 
+								
+								<tr>
+									<td>SUBHA LAKSHMI T.S </td>
+									<td>OCEAN GROUP  </td>
+								</tr> 
+
+									</tbody>
+							</table>
+		  				</div>
+					</div>    
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
     
 <div class="tab-pane fade  " id="menu5" >
-<div class="ins_pmt_tab_cont">
-<div class="container">
-<h3 class="com_title">Placement Details</h3> 
-<div class="row">
-<div class="col-lg-6 mb-5 mb-lg-0">
-<div class="ins_pmt_table">
-<h5>List Of Students Placed (2015 - 2017) Batch </h5>
-<div class="table_outer custom_table ">	  
-					<table class="table table-bordered ">
+	<div class="ins_pmt_tab_cont">
+		<div class="container">
+			<!-- <h3 class="com_title">Placement Details</h3>  -->
+			<!-- <div class="row">
+				<div class="col-lg-6 mb-5 mb-lg-0">
+					<div class="ins_pmt_table">
+						<h5>List Of Students Placed (2015 - 2017) Batch </h5>
+						<div class="table_outer custom_table ">	  
+							<table class="table table-bordered ">
 					
-    <thead>
-      <tr>
-        <th>Name of student </th>
-        <th>Company </th>      
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>SACHU C R </td>
-        <td>NEWAGE SYSTEM SOLUTIONS  </td>
-      </tr> 
-	   <tr>
-        <td>SHABEERALI TM </td>
-        <td>ICICI SECURITIES  </td>
-      </tr> 
-	   <tr>
-        <td>DEEPESH. K </td>
-        <td> KPMG </td>
-      </tr> 
-	   <tr>
-        <td>RAHUL P </td>
-        <td>KPMG  </td>
-      </tr> 
-	   <tr>
-        <td>ANOOP C </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>ASHOK T </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>DEEPESH K </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>NIYAS T </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>SHANTHI UNNI </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>SHUAIBA K </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>SANJITH K P </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	   <tr>
-        <td>SURYA KIRAN S </td>
-        <td>ICICI PRUDENTIAL  </td>
-      </tr> 
-	  <tr>
-        <td>AFSAL NAVAS  </td>
-        <td> ESAF </td>
-      </tr> 
-	   <tr>
-        <td>ANOOP C   </td>
-        <td> ESAF </td>
-      </tr> 
-	  
-	     </tbody>
-		 </table>
-		  </div>
-</div>
-</div>    
-<div class="col-lg-6">
-<div class="ins_pmt_table">
-<h5>List Of Students Placed (2016 - 2018) Batch </h5> 
-<div class="table_outer custom_table">
-		 <table class="table table-bordered ">
-    <thead>
-      <tr>
-        <th>Name of student </th>
-        <th>Company </th>      
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>S.ANIL NAIR </td>
-        <td>ACCENTA EDUCATION </td>
-      </tr> 
-	  <tr>
-        <td>RAHUL RAVI </td>
-        <td>ACCENTA EDUCATION  </td>
-      </tr> 
-	  
-	   <tr>
-        <td>MOHAMED SAMSAD </td>
-        <td>ICICI  </td>
-      </tr> 
-	  
-	  <tr>
-        <td>SNOOP VS </td>
-        <td>ICICI  </td>
-      </tr> 
-	  <tr>
-        <td>MOHAMED ANEES </td>
-        <td>ICICI  </td>
-      </tr> 
-	  <tr>
-        <td>JISHNU K </td>
-        <td> ICICI </td>
-      </tr> 
-	  
-	  <tr>
-        <td>SURYA SREE M. </td>
-        <td>EXIDE LIFE INSURANCE  </td>
-      </tr> 
-	  
-	  <tr>
-        <td>SAIRA SUSEN </td>
-        <td>OCEAN GROUP  </td>
-      </tr> 
-	  
-	  <tr>
-        <td>SUBHA LAKSHMI T.S </td>
-        <td>OCEAN GROUP  </td>
-      </tr> 
+										<thead>
+										<tr>
+											<th>Name of student </th>
+											<th>Company </th>      
+										</tr>
+										</thead>
+										<tbody>
+										<tr>
+											<td>SACHU C R </td>
+											<td>NEWAGE SYSTEM SOLUTIONS  </td>
+										</tr> 
+										<tr>
+											<td>SHABEERALI TM </td>
+											<td>ICICI SECURITIES  </td>
+										</tr> 
+										<tr>
+											<td>DEEPESH. K </td>
+											<td> KPMG </td>
+										</tr> 
+										<tr>
+											<td>RAHUL P </td>
+											<td>KPMG  </td>
+										</tr> 
+										<tr>
+											<td>ANOOP C </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>ASHOK T </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>DEEPESH K </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>NIYAS T </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SHANTHI UNNI </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SHUAIBA K </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SANJITH K P </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>SURYA KIRAN S </td>
+											<td>ICICI PRUDENTIAL  </td>
+										</tr> 
+										<tr>
+											<td>AFSAL NAVAS  </td>
+											<td> ESAF </td>
+										</tr> 
+										<tr>
+											<td>ANOOP C   </td>
+											<td> ESAF </td>
+										</tr> 
+										
+											</tbody>
+							</table>
+		  				</div>
+					</div>
+				</div>    
+				<div class="col-lg-6">
+					<div class="ins_pmt_table">
+						<h5>List Of Students Placed (2016 - 2018) Batch </h5> 
+						<div class="table_outer custom_table">
+		 					<table class="table table-bordered ">
+								<thead>
+								<tr>
+									<th>Name of student </th>
+									<th>Company </th>      
+								</tr>
+								</thead>
+								<tbody>
+								<tr>
+									<td>S.ANIL NAIR </td>
+									<td>ACCENTA EDUCATION </td>
+								</tr> 
+								<tr>
+									<td>RAHUL RAVI </td>
+									<td>ACCENTA EDUCATION  </td>
+								</tr> 
+								
+								<tr>
+									<td>MOHAMED SAMSAD </td>
+									<td>ICICI  </td>
+								</tr> 
+								
+								<tr>
+									<td>SNOOP VS </td>
+									<td>ICICI  </td>
+								</tr> 
+								<tr>
+									<td>MOHAMED ANEES </td>
+									<td>ICICI  </td>
+								</tr> 
+								<tr>
+									<td>JISHNU K </td>
+									<td> ICICI </td>
+								</tr> 
+								
+								<tr>
+									<td>SURYA SREE M. </td>
+									<td>EXIDE LIFE INSURANCE  </td>
+								</tr> 
+								
+								<tr>
+									<td>SAIRA SUSEN </td>
+									<td>OCEAN GROUP  </td>
+								</tr> 
+								
+								<tr>
+									<td>SUBHA LAKSHMI T.S </td>
+									<td>OCEAN GROUP  </td>
+								</tr> 
 
-	     </tbody>
-		 </table>
-		  </div>
-</div>    
-</div>    
-</div>
+									</tbody>
+							</table>
+		  				</div>
+					</div>    
+				</div>    
+			</div> -->
 <div class="ins_pmt_sec2">
 <div class="row mb-5 pb-2">
 <div class="col-lg-5 mb-3 mb-lg-0">
@@ -500,7 +859,7 @@
 <div class="tab-pane fade  " id="menu6" >
 <div class="ins_mba_ass">
 <div class="container">
-<h3 class="com_title">Assocation</h3>
+<!-- <h3 class="com_title">Assocation</h3>
 <p>Jawaharlal Business School has organized Add on courses for both JBS and NSM students on online mode on</p>
 <div class="ins_mba_cont_row mb-5 pt-3">
 <h6>Airline and Airport Management</h6>
@@ -518,7 +877,59 @@
 <div class="pt-3">
 <img class="bdr_yellow" src="images/mba/ass.jpg">    
 </div>
-</div>
+</div> -->
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-9 in_pgm_title">
+                <h1 class="com_title">JBS Associations </h1>    
+                <p>Jawaharlal Business School has organized Add on courses for both JBS and NSM students on online mode on </p>
+            </div> 
+        </div>
+        <div class="row">
+                <div class="col-lg-6">
+                   <a href="https://nipm.in/" target="_blank">
+                    <div class="academic-col" style="padding: 20px">
+                        <div class="academic-img text-center">
+                            <img src="images/associations/nipm-logo.png" alt="">
+                        </div>
+                    </div>
+                   </a>
+                </div>
+                <div class="col-lg-6">
+                    <a href="http://www.trichurmanagementassociation.com/index.php" target="_blank">
+                        <div class="academic-col" style="padding: 20px">
+                            <div class="academic-img text-center">
+                                <img src="images/associations/tma-logo.png" alt="">
+                            </div>
+                        </div>
+                    </a>
+                </div> 
+        </div>
+		<div class="row align-items-center" style="margin-top:100px">
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-img">
+						<img src="images/associations/airport.jpg" alt="">
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-content">
+						<p><strong>“Airline and Airport Management”</strong> from 8th December to 14th December 2020 by Dr. Balaji, Dean ,Academics Affairs of Nehru College of Aeronautics and Applied Sciences, Coimbatore. The study of Airport Management  course teaches about the management of the Airport. This course provides a broad overview of the airline industry and creates awareness regarding marketing, financial, operational and other factors influencing airport management. It helps to develop different skills within a student to apply managerial skills for the exponential growth of operational and financial airline travels.</p>
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-content">
+						<p><strong>“Mastering Data Analysis on Excel”</strong> by Dr. Murugappan, from 15th to 18th December 2020 conducted by Bhannari Amman Institute of Technology, Erode , Tamil Nadu. Excel can enhance understanding of content within a grahic presentation of the information; it provides a visual representation of data that makes it easier to analyze. Excel reduces the difficulty of plotting data and allows students a means for interpreting the data.A successful Excel spreadsheet will organize raw data into a readable format that makes it easier to extract actionable insights. With more complex data, Excel allows one to customize fields and functions that make calculations as per ones need.</p>
+					</div>
+				</div>
+				<div class="col-md-12 col-lg-6">
+					<div class="assc-img">
+						<img src="images/associations/excel.jpg" alt="">
+					</div>
+				</div>
+        </div>
+
+
+    </div>
     
 </div>
 </div>

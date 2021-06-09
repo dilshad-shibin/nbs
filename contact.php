@@ -75,7 +75,7 @@
 <li><span>Address</span> Near Lakkidi Rly. Station, Pampady, Thiruvilwamala
 Thrissur - 680 597, Kerala, India</li>    
 <li><span>Phone</span> +91 04884 - 281670, 282070, 284000</li>    
-<li><span>Email</span> <a href="mailto:admissions@ncerc.ac.in">admissions@ncerc.ac.in</a> , <a href="mailto:jcetadmissions@nehrucolleges.com">jcetadmissions@nehrucolleges.com</a></li>    
+<li><span>Email</span> <a href="mailto:admissions@ncerc.ac.in">admissions@ncerc.ac.in</a> , <a href="mailto:jcetadmissions@nehrucolleges.com">jcetadmissions@nehrucolleges.com</a>, <a href="mailto:sreeranjan.nsm@ncerc.ac.in">sreeranjan.nsm@ncerc.ac.in</a> </li>    
 </ul>
 </div>
 </div>

@@ -1346,3 +1346,11 @@ li.bnr_ngilogo{
 .box-hidden-jbs{
     display: none;
 }
+
+.hod_namestitle{
+    text-align: center;
+}
+
+.img_albumbox{
+    position: relative;
+}

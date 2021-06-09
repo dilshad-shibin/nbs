@@ -9,7 +9,7 @@ width:100%;
 }
 .pr-tab-contain .tab-menu ul li {
   display: inline-block;
-  margin-right: 30px;
+  margin-right: 15px;
 }
 .pr-tab-contain .tab-menu ul li:last-of-type {
   margin-right: 0;
@@ -17,7 +17,7 @@ width:100%;
 .pr-tab-contain .tab-menu ul li a {
   padding: 10px 0 10px;
   color: #1d386a;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.5;
   letter-spacing: 0.05em;
   text-transform: uppercase;

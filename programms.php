@@ -134,7 +134,7 @@
     </div>
 </section>
 
-<section class="addon-course bg_light">
+<!-- <section class="addon-course bg_light">
     <div class="container">
         <div class="row">
             <h3 class="com_title">Add On Courses</h3>
@@ -148,7 +148,7 @@
             </ul>
         </div>
     </div>
-</section>
+</section> -->
 
 
     

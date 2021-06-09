@@ -26,8 +26,8 @@
 <li><a href="apply-online.php">Apply Online</a> </li>
 <li><a href="admission-procedures.php">Admission Procedures</a> </li>
 <li><a href="admission-centers.php">Admission Centers</a> </li>
-<li><a href="association.php">Associations & Partnerships</a> </li>
-<li><a href="iv-tour.php">International IVs and Study tours</a> </li>
+<!-- <li><a href="association.php">Associations & Partnerships</a> </li> -->
+<!-- <li><a href="iv-tour.php">International IVs and Study tours</a> </li> -->
 </ul>      
 </li>    
 <li><a href="programms.php">Programms</a> </li> 
@@ -131,8 +131,8 @@ ISO 9001:2015 certified<br> -->
 <li><a href="apply-online.php">Apply Online</a> </li>
 <li><a href="admission-procedures.php">Admission Procedures</a> </li>
 <li><a href="admission-centers.php">Admission Centers</a> </li>
-<li><a href="association.php">Associations & Partnerships</a> </li>
-<li><a href="iv-tour.php">International IVs and Study tours</a> </li>
+<!-- <li><a href="association.php">Associations & Partnerships</a> </li> -->
+<!-- <li><a href="iv-tour.php">International IVs and Study tours</a> </li> -->
 </ul>
 </li>
 <li><a href="programms.php">Programms</a></li>
