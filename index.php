@@ -121,7 +121,8 @@ $i = 1;
 <div class="col-lg-4">
 <div class="intro_box">
 <h4>Why NBS</h4> 
-<p>Nehru B-Schools is a unique and special institution filled with vibrant, dynamic and energetic individuals who are focused to succeed and grow in their endeavours.</p>
+<p>Nehru B-Schools are unique and special institutions filled with vibrant, dynamic and
+energetic individuals who are focused to succeed and grow in their endeavors.</p>
 </div>    
 </div>
 <div class="col-lg-4">

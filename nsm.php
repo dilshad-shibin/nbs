@@ -93,7 +93,7 @@
                 <div class="container"> 
                     <div class="tab_ab_cont text_justify">
                         <h3 class="com_title ">About NSM</h3>
-                        <p>School of Management is not just a B-Schools, but it is daringly different from the rest and it is ranked among the leading B-Schools in national level grading service. It also hastie-ups/MOUs with many Government and Corporate institutions for Enterpreneurship Development, Training and Consultancy Projects which provide ample opportunities for our students to gain valuable industry and field exposure. The platform gives opportunities for students to experience professional work in the limelight.</p>    
+                        <p>Nehru School of Management is not just a B-Schools, but it is daringly different from the rest and it is ranked among the leading B-Schools in national level grading service. It also hastie-ups/MOUs with many Government and Corporate institutions for Enterpreneurship Development, Training and Consultancy Projects which provide ample opportunities for our students to gain valuable industry and field exposure. The platform gives opportunities for students to experience professional work in the limelight.</p>    
                         <p>NSM believes and strives to achieve a holistic development of the individual who will contribute in future not only as good managers but also as disciplined corporate citizens. The pedagogy is designed for proactive student interaction. The course delivery system is well composed of case analysis and presentation, group discussion, seminars, assignments, live industrial projects, quiz and soon. We consistently encourage our students to leverage the unparalleled resources of the School of Management, Nehru Group of Institution and APJ Abdul Kalam Technological University to add value to their MBA. Since graduate students are from different streams bridge courses/ orientation classes are arranged as required.</p>    
                         <p>Staff with a wealth of industrial and commercial experience provides necessary skills to students in solving business problems in real life situation. The strong commercial orientation and academic rigor of the program means that the students are shaped to seek a wide range of business related careers both in the public and private sector. Further they can go for careers in Euro bond trading, project management, consultancy, teaching profession, advertisement or, thinking beyond jobs to become entrepreneurs.</p>    
                         <p>Positive attitude formation and skills development are given the right importance in our two year campus program. Experienced faculty mentor students to develop positive attitude towards job, society and life in general. Additional skills are imparted through language classes, interpersonal skills practice, and seamless interaction with technology.</p>    
@@ -165,7 +165,7 @@
                 </div>
                 <section class="in_progm bg_light">
                     <div class="container">
-                        <div class="row justify-content-center">
+                        <!-- <div class="row justify-content-center">
                             <div class="col-lg-9 in_pgm_title">
                                 <h1 class="com_title">Associations and Partnerships</h1>    
                             </div>    
@@ -189,30 +189,8 @@
                                     </div>
                                 </a>
                             </div> 
-                        </div>
-                        <div class="row align-items-center" style="margin-top:100px">
-                            <div class="col-md-12 col-lg-6">
-                                <div class="assc-img">
-                                    <img src="images/associations/airport.jpg" alt="">
-                                </div>
-                            </div>
-                            <div class="col-md-12 col-lg-6">
-                                <div class="assc-content">
-                                    <p><strong>“Airline and Airport Management”</strong> from 8th December to 14th December 2020 by Dr. Balaji, Dean ,Academics Affairs of Nehru College of Aeronautics and Applied Sciences, Coimbatore. The study of Airport Management  course teaches about the management of the Airport. This course provides a broad overview of the airline industry and creates awareness regarding marketing, financial, operational and other factors influencing airport management. It helps to develop different skills within a student to apply managerial skills for the exponential growth of operational and financial airline travels.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-12 col-lg-6">
-                                <div class="assc-content">
-                                    <p><strong>“Mastering Data Analysis on Excel”</strong> by Dr. Murugappan, from 15th to 18th December 2020 conducted by Bhannari Amman Institute of Technology, Erode , Tamil Nadu. Excel can enhance understanding of content within a grahic presentation of the information; it provides a visual representation of data that makes it easier to analyze. Excel reduces the difficulty of plotting data and allows students a means for interpreting the data.A successful Excel spreadsheet will organize raw data into a readable format that makes it easier to extract actionable insights. With more complex data, Excel allows one to customize fields and functions that make calculations as per ones need.</p>
-                                </div>
-                            </div>
-                            <div class="col-md-12 col-lg-6">
-                                <div class="assc-img">
-                                    <img src="images/associations/excel.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row justify-content-center" style="margin-top:100px">
+                        </div> -->
+                        <div class="row justify-content-center">
                             <div class="col-lg-9 in_pgm_title">
                                 <h1 class="com_title">International IV's & National Tours</h1>    
                             </div>    
@@ -451,7 +429,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-4 col-12">
+                        <!-- <div class="col-lg-4 col-md-4 col-12">
                             <div class="img_albumbox">
                                 <a href="images/facilities/Principal-room-2.jpg" class="comn_img_blck" data-fancybox="images">
                                     <img src="images/facilities/Principal-room-2.jpg" class="img-fluid" alt="">
@@ -480,9 +458,9 @@
                                     </div>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-4 col-md-4 col-12">
+                        <!-- <div class="col-lg-4 col-md-4 col-12">
                             <div class="img_albumbox">
                                 <a href="images/facilities/pre_data_structure_lab.jpg" class="comn_img_blck" data-fancybox="images">
                                     <img src="images/facilities/pre_data_structure_lab.jpg" class="img-fluid" alt="">
@@ -511,9 +489,9 @@
                                     </div>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-4 col-md-4 col-12">
+                        <!-- <div class="col-lg-4 col-md-4 col-12">
                             <div class="img_albumbox">
                                 <a href="images/facilities/pre_heattransfer&fluid_machines_lab.jpg" class="comn_img_blck" data-fancybox="images">
                                     <img src="images/facilities/pre_heattransfer&fluid_machines_lab.jpg" class="img-fluid" alt="">
@@ -542,9 +520,9 @@
                                     </div>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
 
-                        <div class="col-lg-4 col-md-4 col-12">
+                        <!-- <div class="col-lg-4 col-md-4 col-12">
                             <div class="img_albumbox">
                                 <a href="images/facilities/pre_mat_lab.jpg" class="comn_img_blck" data-fancybox="images">
                                     <img src="images/facilities/pre_mat_lab.jpg" class="img-fluid" alt="">
@@ -573,7 +551,7 @@
                                     </div>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="col-lg-4 col-md-4 col-12">
                             <div class="img_albumbox">
@@ -696,7 +674,7 @@
                                         </svg>NSM Brochure 2021
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="download/nsm-news.pdf" target="_blank"> 
                                     <svg xmlns="" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-download">
                                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" class="strock_line"></path>
@@ -704,7 +682,7 @@
                                     <line x1="12" y1="15" x2="12" y2="3"></line>
                                     </svg>NSM Newsletter  
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>    
                     </div>    
                 </div>
@@ -729,7 +707,7 @@
 					                <p>Our programme is uniquely structured in which core and elective courses dealing with concepts, analytical and quantitative methodologies, functional specializations, industrial and business domains, professional development and industrial/business projects are offered. Our pedagogy is a well balanced mix of lectures, case studies, assignments, simulations, group exercises, seminars, and projects that enables all our students to realize their potential to become excellent managers.</p>
 					                <p>Our faculty members are experts in terms of academic expertise and professional experience. They bring in methodological mastery, intellectual rigor, business perspectives and practical experience into the educational process. The MBA curriculum equips students with tools to lead and manage in today’s ever- changing business landscape. The focus is not just on the underlying theory, but how to apply cutting-edge concepts to real, relevant business problems. </p>
 					                <p>The Business Schools has maintained good results and placement record as a result of our hard working culture, supported by a dynamic management. Today NSM has attained the position of a much sought after Business schools by students all over Kerala as well as nearby states. The program teaches students to not only recognize opportunity, but to create it, an essential ability in a business environment that is constantly evolving both inside and outside of their organizational environment. NSM focuses exclusively on leadership education with focus on education and research in solving the leadership challenges plaguing the organizations of today.</p>
-                                    <p>t is my pleasure to invite you to be a part of this “Life Transforming Learning Experience”.</p>
+                                    <p>It is my pleasure to invite you to be a part of this “Life Transforming Learning Experience”.</p>
 					
 		                        </div>
 		                    </div>
@@ -776,7 +754,7 @@
             <div class="tab-pane fade" id="menu9">
                 <div class="ins_pmt_tab_cont">
 		            <div class="container">
-                        <div class="ins_pmt_sec2">
+                        <!-- <div class="ins_pmt_sec2">
                             <div class="row mb-5 pb-2">
                                 <div class="col-lg-5 mb-3 mb-lg-0">
                                     <img class="bdr_yellow" src="images/mba/pmt1.jpg"> 
@@ -807,9 +785,9 @@
                                     </div>    
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <!-- starting -->
-                        <div class="ins_pmt_sec3" style="">
+                        <div class="ins_pmt_sec3 ins_pmt_sec3_faculty" style="">
                             <h3>Faculty Publications</h3>
                             <div class="ins_se3_row">
                                 <div class="ins_se3_in_row">

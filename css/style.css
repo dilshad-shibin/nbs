@@ -1354,3 +1354,9 @@ li.bnr_ngilogo{
 .img_albumbox{
     position: relative;
 }
+
+.ins_pmt_sec3_faculty{
+    margin-top: 0;
+    padding-top: 0;
+    border: none;
+}

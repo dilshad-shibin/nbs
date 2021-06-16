@@ -7,10 +7,10 @@
 <li><a href="about-ngi.php">About NGI</a> </li> 
 <li><a href="about-nbs.php">About NBS</a> </li>   
 <li><a href="founder-chairman.php">About Founder Chairman</a> </li>    
-<li><a href="managing-trustee.php">Chairman & Managing Trustee Message</a> </li>    
-<li><a href="ceo-and-secretary.php">CEO & Secretary Message</a> </li>
-<li><a href="director.php">Director-NSM Message</a></li>
-<li><a href="hod.php">HOD-JBS Message</a></li> 
+<li><a href="managing-trustee.php">Message - Chairman & Managing Trustee</a> </li>    
+<li><a href="ceo-and-secretary.php">Message - CEO & Secretary </a> </li>
+<li><a href="director.php"> Message - Director NSM</a></li>
+<li><a href="hod.php">Message-JBS,HOD </a></li> 
 <li><a href="trust.php">About Trust</a> </li> 
 <!-- <li><a href="publication.php">Publications</a></li>  -->
 </ul>
@@ -112,10 +112,10 @@ ISO 9001:2015 certified<br> -->
 <li><a href="about-ngi.php">About NGI</a> </li> 
 <li><a href="about-nbs.php">About NBS</a> </li>   
 <li><a href="founder-chairman.php">About Founder Chairman</a> </li>    
-<li><a href="managing-trustee.php">Chairman & Managing Trustee Message</a> </li>    
-<li><a href="ceo-and-secretary.php">CEO & Secretary Message</a> </li>
-<li><a href="director.php">Director-NSM Message</a></li>
-<li><a href="hod.php">HOD-JBS Message</a></li> 
+<li><a href="managing-trustee.php">Message - Chairman & Managing Trustee </a> </li>    
+<li><a href="ceo-and-secretary.php"> Message - CEO & Secretary</a> </li>
+<li><a href="director.php"> Message - Director NSM</a></li>
+<li><a href="hod.php"> Message - JBS,HOD</a></li> 
 <li><a href="trust.php">About Trust</a> </li> 
 <!-- <li><a href="publication.php">Publications</a></li>     -->
 </ul>

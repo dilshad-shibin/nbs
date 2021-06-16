@@ -43,7 +43,7 @@
 <div class="inst_coll_content_box">
 <div class="inst_logo nsm_logo"><img src="images/nsm-logo.png"> </div>
 <h3>Nehru School of Management</h3>
-<div class="elip_text"><p> School of Management is not just a B-Schools, but it is daringly different from the rest and it is ranked among the leading B-Schools in national level grading service. </p></div>
+<div class="elip_text"><p>Nehru School of Management is not just a B-Schools, but it is daringly different from the rest and it is ranked among the leading B-Schools in national level grading service. </p></div>
 <a href="nsm.php" class="theme_btn  " target="">Learn More</a>
 </div>
 </div>
