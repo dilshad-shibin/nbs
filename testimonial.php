@@ -238,7 +238,7 @@
                 </div>
             </div>
             <div class="col-md-12 mt-3 text-center">
-                <button class="btn_load btn theme_btn" id="loadMore">Loadmore</button>
+                <button class="btn_load btn theme_btn" id="loadMore">Load More</button>
             </div>
         </div>
     </div>
@@ -332,7 +332,7 @@
             
             
             <div class="col-md-12 mt-3 text-center">
-                <button class="btn_load btn theme_btn" id="loadMore-Jbs">Loadmore</button>
+                <button class="btn_load btn theme_btn" id="loadMore-Jbs">Load More</button>
             </div>
         </div>
     </div>

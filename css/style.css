@@ -1360,3 +1360,16 @@ li.bnr_ngilogo{
     padding-top: 0;
     border: none;
 }
+
+.readmore-style{
+    font-size: 16px;
+    padding-top: 10px;
+    text-decoration: underline;
+    color: #1d386a;
+    transition: all .3s;
+}
+
+.readmore-style:hover,
+.readmore-style.active{
+    color: tomato;
+}

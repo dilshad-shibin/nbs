@@ -258,6 +258,7 @@ campus tour</h5>
 <span>Batch 2014-16  </span>
 </div>    
 </div>  
+<a href="testimonial.php" class="readmore-style">Read More</a>
     
 </div>            
 </div>            
@@ -277,10 +278,58 @@ campus tour</h5>
 <span>Batch 2014-16  </span>
 </div>    
 </div>   
+<a href="testimonial.php" class="readmore-style">Read More</a>
     
 </div>            
 </div>            
 </div>
+
+<!-- Third testi -->
+<div class="item ">
+<div class="tes_box_outer ">
+<div class="tes_box ">
+<div class="tes_auther_imgblock">
+<div class="" ><img src="images/user.png"></div>
+</div>
+<div class="qute_icon"></div>
+<p>NSM also provides value added course for improving the confidence level as well as knowledge of the students. NSM provides outbound training which moulding the skill of the students...</p>
+<div class="tes_auther"> 
+<div class="tes_auther_title">
+<h5>Sruthi U</h5>
+<span>MBA (2019-20  Batch)  </span>
+</div>    
+</div>   
+<a href="testimonial.php" class="readmore-style">Read More</a>
+    
+</div>            
+</div>            
+</div>
+<!-- Close third testi -->
+
+<!-- Fourth testi -->
+<div class="item ">
+<div class="tes_box_outer ">
+<div class="tes_box ">
+<div class="tes_auther_imgblock">
+<div class="" ><img src="images/user.png"></div>
+</div>
+<div class="qute_icon"></div>
+<p>I  have a very sweet memory with NSM. The time spent here will remain an 
+inspiration for my entire life. The college focuses on our all-round development 
+and not just an academic point of view. About the college, The infrastructure and 
+facilities available in the college is very good.</p>
+<div class="tes_auther"> 
+<div class="tes_auther_title">
+<h5>Subi S</h5>
+<span>MBA (2019-20  Batch)  </span>
+</div>    
+</div>   
+<a href="testimonial.php" class="readmore-style">Read More</a>
+    
+</div>            
+</div>            
+</div>
+<!-- Close Forth Testi -->
     
 </div>
 </div> 
