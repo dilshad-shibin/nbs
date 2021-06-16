@@ -53,9 +53,9 @@
                         <li>
                             <a href="#company-visited" class="nav-link" data-toggle="tab" aria-expanded="false">Company's Visited</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="#ncpir" class="nav-link" data-toggle="tab" aria-expanded="false">NCPIR</a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="#placement-students" class="nav-link" data-toggle="tab" aria-expanded="false">NSM Placements</a>
                         </li>
@@ -68,7 +68,7 @@
                     <div class="tab-content">
                         <div id="about-placement" class="tab-pane active">
                             <div class="row">
-                                <div class="col-md-12 pt-5">
+                                    <!-- <div class="col-md-12 pt-5">
                                     <h3>Nehru School of Management @ NCERC</h3>
                                     <p class="pt-3"><strong>Nehru School of Management is top-ranked B-Schools</strong> in Kerala state and always been synonymous with excellence. Nehru Group of Institutions has some of the top-notch Educational Institutes in Kerala and Coimbatore.</p>
                                     <p>Nehru School of Management is not just a B- schools, but it is daringly different from the rest and it is ranked among the leading B- schools in nation all level grading service .It also has Tie ups with many government and corporate institutions for Entrepreneurship Development, Training and Consultancy projects which provide ample opportunities for our students to gain valuable industry and field exposure. “KARMA” the management meet is held and organized by the students every year .The platform gives opportunities for students to experience professional work in the limelight. NSM believes and strives to achieve a holistic development of the individual who will contribute in future not only as good managers but also as disciplined corporate citizens. The pedagogy is designed for proactive student interaction. The course delivery system is well composed of case analysis and presentations , group discussions ,  seminars, assignments , live industrial projects ,quiz and soon . We consistently encourage our students to leverage the unparalleled resource of the school of management, Nehru Group of Institutions and APJ Abdul Kalam Technological University to add value to their MBA. Since graduate students are from different streams bridged courses / orientation classes are arranged as required. </p>
@@ -119,7 +119,12 @@
                                                     
                                             </tbody>
                                         </table>
-                                     </div>
+                                    </div> -->
+                                    <div class="col-md-12 pt-5">
+                                        <h3>Nehru Corporate Placements & Industry Relations (NCPIR)</h3>
+                                        <p class="pt-3">Nehru Group of Institutions believes that overall development of the individual is the ultimate goal of education. Nehru Corporate Placements and Industry Relations (NCPIR) plays a vital role in NGI as this act as an interface between students and the corporate. A team of professional drawn from various industry backgrounds work on building the relationship in the industries to enable multiple level engagements such as Placements, Training, Alliances, Projects etc. This department concentrates in bringing top brands in Manufacturing, Information Technology, Automobiles, Banking, Financial Services, Insurance, Retail, Media, ITES etc. </p>
+                                        <p>NCPIR continuously interacts with corporate and students for their final placements. Over 150 reputed National and Multinational companies visit NGI to recruit the students year on year. NCPIR initiates and conducts Faculty Development Programme and Executive Development Programme. It provides Incubation Centre for necessary infrastructure and knowledge facility for budding entrepreneurs. It also initiates Corporate Consultancy with Industry and Academics. NCPIR also has full-fledged software development facility within the department. Through rigorous training programmes the management assures that our students will be able to synchronize all their learning and will be able to face all the challenges in future.</p>
+                                        <p>NSM has got a separate placement wing called NSM Placement Cell headed by a senior faculty and a committee consisting of faculties and student members. The placement Cell design and conduct training programme suitable for students, to equip them to face job interviews. The cell conducts training through external trainers as well as in-house. Personality and attitude training.</p>
                                     </div>
                             </div>
                         </div>
@@ -384,7 +389,7 @@
                                 </section>
                             </div>
                         </div>
-                        <div id="ncpir" class="tab-pane active">
+                        <!-- <div id="ncpir" class="tab-pane">
                             <div class="row">
                                 <div class="col-md-12 pt-5">
                                     <h3>Nehru Corporate Placements & Industry Relations (NCPIR)</h3>
@@ -393,7 +398,7 @@
                                     <p>NSM has got a separate placement wing called NSM Placement Cell headed by a senior faculty and a committee consisting of faculties and student members. The placement Cell design and conduct training programme suitable for students, to equip them to face job interviews. The cell conducts training through external trainers as well as in-house. Personality and attitude training.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div id="placement-students" class="tab-pane">
                             <div class="row">
                                 <!-- placement area -->

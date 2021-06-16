@@ -48,10 +48,10 @@
                 <div class="placement-details-tab faculty-tab">
                     <ul class="nav nav-tabs">
                         <li>
-                            <a href="#nsm-faculty" class="nav-link active" data-toggle="tab" aria-expanded="true">NSM Faculty's</a>
+                            <a href="#nsm-faculty" class="nav-link active" data-toggle="tab" aria-expanded="true">NSM Faculty</a>
                         </li>
                         <li>
-                            <a href="#jbs-faculty" class="nav-link" data-toggle="tab" aria-expanded="false">JBS Faculty's</a>
+                            <a href="#jbs-faculty" class="nav-link" data-toggle="tab" aria-expanded="false">JBS Faculty</a>
                         </li>
                     </ul>
                 </div>
